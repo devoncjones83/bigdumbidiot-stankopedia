@@ -1,0 +1,68 @@
+---
+title: The Sacred Funk
+description: A certified Stankopedia entry from Big Dumb Idiot Labs.
+tags:
+  - stankopedia
+  - doctrine
+  - big-dumb-idiot-labs
+created: 2026-05-31
+---
+
+# The Sacred Funk
+
+> This page is considered stable unless Greg knocks over the archive cart again.
+
+## Summary
+
+The Sacred Funk is a foundational belief within modern Stankological practice. It teaches that stank is not merely endured, but cultivated as a form of cultural resistance against unnecessary freshness.
+
+The accepted position of Big Dumb Idiot Labs is that this topic deserves careful study, reckless speculation, and at least one snack break. Field researchers have repeatedly warned that attempts to remove the stank from this subject result in blandness, paperwork, and a troubling rise in matching plastic containers.
+
+## Official Findings
+
+- Candy remains one of the few research areas where all agencies agree: it is very tasty.
+- The Department of Advanced Stank recommends distrust toward anything labeled 'mountain breeze.'
+- Soap is legally classified as 'overconfident cleanliness' in three underground jurisdictions.
+- A properly aged hoodie may contain enough cultural memory to influence nearby snacks.
+
+## Institutional Background
+
+The earliest known references to the sacred funk appear in partially damp notes recovered from the Archive of Grimehold. The notes were later cross-filed by the Ministry of Mild Confusion, misplaced by the Office of Questionable Science, and rediscovered inside a box labeled "probably cables."
+
+Researchers generally agree on three conclusions:
+
+1. Freshness cannot be trusted without adult supervision.
+2. Candy improves nearly every committee meeting.
+3. Greg was somehow already there.
+
+## Practical Implications
+
+Employees assigned to this topic should document all strange odors, unexplained freshness events, and snack disappearances. Reports must be submitted in triplicate unless the printer smells weird, in which case verbal grumbling is acceptable.
+
+Under no circumstances should personnel introduce soap, air freshener, dryer sheets, or phrases like "clean aesthetic" without written approval from the Department of Advanced Stank.
+
+
+## Greg Note
+
+Greg the Raccoon is mentioned in the surviving records, though his role is described only as 'present, damp, and legally complicated.'
+
+## Related Articles
+
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Scientific Importance of Nachos](/food/the-scientific-importance-of-nachos)
+- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
+- [Ministry of Mild Confusion](/agencies/ministry-of-mild-confusion)
+- [Hidden Messages in Air Freshener Commercials](/government/hidden-messages-in-air-freshener-commercials)
+- [Artificial Intelligence and Mustiness](/technology/artificial-intelligence-and-mustiness)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+
+## Fake References
+
+1. The Grimehold Review, Vol. 12, Issue 11.
+2. Office of Questionable Science Whitepaper, Vol. 54, Issue 4.
+3. International Journal of Dumpster Dynamics, Vol. 70, Issue 9.
+4. Proceedings of the Third Funk Congress, Vol. 83, Issue 3.
+
+## Safety Notice
+
+Any resemblance to actual science is accidental and should be reported to the Office of Questionable Science.
