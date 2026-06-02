@@ -2,36 +2,22 @@
 title: Stankopedia
 description: 
 published: true
-date: 2026-06-01T04:27:36.443Z
+date: 2026-06-02T01:20:15.085Z
 tags: 
 editor: markdown
-dateCreated: 2026-06-01T04:25:03.255Z
+dateCreated: 2026-06-02T01:20:15.085Z
 ---
 
-# 🦨 STANKOPEDIA
+# 🦨 Stankopedia
 
-> WARNING: You are entering a contaminated knowledge repository.
+Welcome to the official Stankopedia gateway.
 
-Exposure to the information contained within may result in:
+The main archive lives here:
 
-- Increased appreciation of cheese
-- Distrust of soap
-- Advanced understanding of funk dynamics
-- Sudden interest in raccoon affairs
-- Unexplained cravings for candy
+[🦨 Enter Stankopedia Home](/stankopedia/home)
 
 ---
 
-# ENTER THE ARCHIVES
+Freshness fades.
 
-## 📚 Begin Your Research
-
-[🦨 ENTER THE STANK](https://badbrain.bigdumbidiot.org/en/stankopedia/home)
-
----
-
-## Official Notice
-
-Freshness is temporary.
-
-**Stank is forever.**
+**Stank remains.**
