@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Advanced Sock Physics
 description: 
 published: true
-date: 2026-06-02T00:26:03.582Z
+date: 2026-06-02T00:26:27.888Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-02T00:26:03.582Z
