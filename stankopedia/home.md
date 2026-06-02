@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: 
 published: true
-date: 2026-06-02T01:18:21.892Z
+date: 2026-06-02T01:27:50.454Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-01T03:40:48.731Z
