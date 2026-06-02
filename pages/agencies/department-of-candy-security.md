@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Quantum Stank Entanglement](/science/quantum-stank-entanglement)
-- [The Sacred Sock Age](/history/the-sacred-sock-age)
-- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
-- [Sister Mildew](/people/sister-mildew)
-- [The War of Mildly Damp Towels](/history/the-war-of-mildly-damp-towels)
-- [Freshness Incident Response Procedures](/standards/freshness-incident-response-procedures)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
+- [The Sacred Sock Age](/stankopedia/history/the-sacred-sock-age)
+- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
+- [Sister Mildew](/stankopedia/people/sister-mildew)
+- [The War of Mildly Damp Towels](/stankopedia/history/the-war-of-mildly-damp-towels)
+- [Freshness Incident Response Procedures](/stankopedia/standards/freshness-incident-response-procedures)
 
 ## Fake References
 

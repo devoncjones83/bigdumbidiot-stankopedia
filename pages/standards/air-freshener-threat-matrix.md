@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Seventh Dumpster](/lore/the-seventh-dumpster)
-- [The Unknown Janitor of Grimehold](/people/the-unknown-janitor-of-grimehold)
-- [The Purity of Must](/doctrine/the-purity-of-must)
-- [The Path of Funk](/doctrine/the-path-of-funk)
-- [Controlled Funk Reactions](/science/controlled-funk-reactions)
-- [Agency for Snack Excellence](/agencies/agency-for-snack-excellence)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Seventh Dumpster](/stankopedia/lore/the-seventh-dumpster)
+- [The Unknown Janitor of Grimehold](/stankopedia/people/the-unknown-janitor-of-grimehold)
+- [The Purity of Must](/stankopedia/doctrine/the-purity-of-must)
+- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
+- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
+- [Agency for Snack Excellence](/stankopedia/agencies/agency-for-snack-excellence)
 
 ## Fake References
 

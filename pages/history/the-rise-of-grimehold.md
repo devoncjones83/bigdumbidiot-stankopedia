@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Secret History of Shampoo](/government/the-secret-history-of-shampoo)
-- [Candy Is Very Tasty](/food/candy-is-very-tasty)
-- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
-- [Stank Classification Standard S-9000](/standards/stank-classification-standard-s-9000)
-- [Agency for Snack Excellence](/agencies/agency-for-snack-excellence)
-- [Why Fresh Laundry Is Suspicious](/science/why-fresh-laundry-is-suspicious)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Secret History of Shampoo](/stankopedia/government/the-secret-history-of-shampoo)
+- [Candy Is Very Tasty](/stankopedia/food/candy-is-very-tasty)
+- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
+- [Stank Classification Standard S-9000](/stankopedia/standards/stank-classification-standard-s-9000)
+- [Agency for Snack Excellence](/stankopedia/agencies/agency-for-snack-excellence)
+- [Why Fresh Laundry Is Suspicious](/stankopedia/science/why-fresh-laundry-is-suspicious)
 
 ## Fake References
 

@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Baron von Stank](/people/baron-von-stank)
-- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
-- [Approved Sources of Stank](/standards/approved-sources-of-stank)
-- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
-- [Aromatic Enlightenment](/doctrine/aromatic-enlightenment)
-- [The Physics of Funk](/science/the-physics-of-funk)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Baron von Stank](/stankopedia/people/baron-von-stank)
+- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
+- [Approved Sources of Stank](/stankopedia/standards/approved-sources-of-stank)
+- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
+- [Aromatic Enlightenment](/stankopedia/doctrine/aromatic-enlightenment)
+- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
 
 ## Fake References
 

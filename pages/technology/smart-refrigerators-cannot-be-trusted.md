@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Controlled Funk Reactions](/science/controlled-funk-reactions)
-- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
-- [Air Freshener Threat Matrix](/standards/air-freshener-threat-matrix)
-- [Why Hotels Give Away Tiny Soaps](/government/why-hotels-give-away-tiny-soaps)
-- [The War of Mildly Damp Towels](/history/the-war-of-mildly-damp-towels)
-- [Why Fresh Laundry Is Suspicious](/science/why-fresh-laundry-is-suspicious)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
+- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
+- [Air Freshener Threat Matrix](/stankopedia/standards/air-freshener-threat-matrix)
+- [Why Hotels Give Away Tiny Soaps](/stankopedia/government/why-hotels-give-away-tiny-soaps)
+- [The War of Mildly Damp Towels](/stankopedia/history/the-war-of-mildly-damp-towels)
+- [Why Fresh Laundry Is Suspicious](/stankopedia/science/why-fresh-laundry-is-suspicious)
 
 ## Fake References
 

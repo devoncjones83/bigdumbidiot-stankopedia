@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
-- [The Musty Prophet](/people/the-musty-prophet)
-- [Candy Resonance](/science/candy-resonance)
-- [The Purity of Must](/doctrine/the-purity-of-must)
-- [Air Freshener Threat Matrix](/standards/air-freshener-threat-matrix)
-- [The Raccoon Reformation](/history/the-raccoon-reformation)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
+- [The Musty Prophet](/stankopedia/people/the-musty-prophet)
+- [Candy Resonance](/stankopedia/science/candy-resonance)
+- [The Purity of Must](/stankopedia/doctrine/the-purity-of-must)
+- [Air Freshener Threat Matrix](/stankopedia/standards/air-freshener-threat-matrix)
+- [The Raccoon Reformation](/stankopedia/history/the-raccoon-reformation)
 
 ## Fake References
 

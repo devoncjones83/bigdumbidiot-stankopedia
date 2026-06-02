@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [The Stank Doctrine](/doctrine/the-stank-doctrine)
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Rise of Grimehold](/history/the-rise-of-grimehold)
-- [Why Fresh Laundry Is Suspicious](/science/why-fresh-laundry-is-suspicious)
-- [Operation Lemon Breeze](/history/operation-lemon-breeze)
-- [The Battle of Funk Ridge](/history/the-battle-of-funk-ridge)
-- [Why Soap Cannot Be Trusted](/doctrine/why-soap-cannot-be-trusted)
+- [The Stank Doctrine](/stankopedia/doctrine/the-stank-doctrine)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
+- [Why Fresh Laundry Is Suspicious](/stankopedia/science/why-fresh-laundry-is-suspicious)
+- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
+- [The Battle of Funk Ridge](/stankopedia/history/the-battle-of-funk-ridge)
+- [Why Soap Cannot Be Trusted](/stankopedia/doctrine/why-soap-cannot-be-trusted)
 
 ## Fake References
 

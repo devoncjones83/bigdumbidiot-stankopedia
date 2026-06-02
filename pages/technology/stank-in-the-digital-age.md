@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Why French Fries Improve Wisdom](/food/why-french-fries-improve-wisdom)
-- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
-- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
-- [Applied Dumpster Dynamics](/science/applied-dumpster-dynamics)
-- [Certified Funk Technician Handbook](/standards/certified-funk-technician-handbook)
-- [The Physics of Funk](/science/the-physics-of-funk)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Why French Fries Improve Wisdom](/stankopedia/food/why-french-fries-improve-wisdom)
+- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
+- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
+- [Applied Dumpster Dynamics](/stankopedia/science/applied-dumpster-dynamics)
+- [Certified Funk Technician Handbook](/stankopedia/standards/certified-funk-technician-handbook)
+- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
 
 ## Fake References
 

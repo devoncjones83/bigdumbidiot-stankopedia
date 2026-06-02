@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Why Soap Cannot Be Trusted](/doctrine/why-soap-cannot-be-trusted)
-- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
-- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
-- [Controlled Funk Reactions](/science/controlled-funk-reactions)
-- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
-- [The Future of Funk](/technology/the-future-of-funk)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Why Soap Cannot Be Trusted](/stankopedia/doctrine/why-soap-cannot-be-trusted)
+- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
+- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
+- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
+- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
+- [The Future of Funk](/stankopedia/technology/the-future-of-funk)
 
 ## Fake References
 

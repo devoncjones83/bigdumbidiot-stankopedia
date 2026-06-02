@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Aromatic Enlightenment](/doctrine/aromatic-enlightenment)
-- [The Battle of Funk Ridge](/history/the-battle-of-funk-ridge)
-- [The First Dumpster Council](/history/the-first-dumpster-council)
-- [The Metaverse Smells Weird](/technology/the-metaverse-smells-weird)
-- [Stank Particle Acceleration](/science/stank-particle-acceleration)
-- [Freshness Heresies](/doctrine/freshness-heresies)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Aromatic Enlightenment](/stankopedia/doctrine/aromatic-enlightenment)
+- [The Battle of Funk Ridge](/stankopedia/history/the-battle-of-funk-ridge)
+- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
+- [The Metaverse Smells Weird](/stankopedia/technology/the-metaverse-smells-weird)
+- [Stank Particle Acceleration](/stankopedia/science/stank-particle-acceleration)
+- [Freshness Heresies](/stankopedia/doctrine/freshness-heresies)
 
 ## Fake References
 

@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Operation Lemon Breeze](/history/operation-lemon-breeze)
-- [The Future of Funk](/technology/the-future-of-funk)
-- [Advanced Mustics](/science/advanced-mustics)
-- [Emergency Nacho Containment](/standards/emergency-nacho-containment)
-- [The Beauty of Stank](/doctrine/the-beauty-of-stank)
-- [Smart Refrigerators Cannot Be Trusted](/technology/smart-refrigerators-cannot-be-trusted)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
+- [The Future of Funk](/stankopedia/technology/the-future-of-funk)
+- [Advanced Mustics](/stankopedia/science/advanced-mustics)
+- [Emergency Nacho Containment](/stankopedia/standards/emergency-nacho-containment)
+- [The Beauty of Stank](/stankopedia/doctrine/the-beauty-of-stank)
+- [Smart Refrigerators Cannot Be Trusted](/stankopedia/technology/smart-refrigerators-cannot-be-trusted)
 
 ## Fake References
 

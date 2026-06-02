@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Ancient Donut Traditions](/food/ancient-donut-traditions)
-- [The Chamber of Unidentified Smells](/lore/the-chamber-of-unidentified-smells)
-- [The Stank Doctrine](/doctrine/the-stank-doctrine)
-- [Controlled Funk Reactions](/science/controlled-funk-reactions)
-- [The Sacred Hoodie](/lore/the-sacred-hoodie)
-- [Air Freshener Threat Matrix](/standards/air-freshener-threat-matrix)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
+- [The Chamber of Unidentified Smells](/stankopedia/lore/the-chamber-of-unidentified-smells)
+- [The Stank Doctrine](/stankopedia/doctrine/the-stank-doctrine)
+- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
+- [The Sacred Hoodie](/stankopedia/lore/the-sacred-hoodie)
+- [Air Freshener Threat Matrix](/stankopedia/standards/air-freshener-threat-matrix)
 
 ## Fake References
 

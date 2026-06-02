@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The First Dumpster Council](/history/the-first-dumpster-council)
-- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
-- [Dumpster Safety Requirements](/standards/dumpster-safety-requirements)
-- [Controlled Funk Reactions](/science/controlled-funk-reactions)
-- [The Sacred Burrito](/food/the-sacred-burrito)
-- [The Beauty of Stank](/doctrine/the-beauty-of-stank)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
+- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
+- [Dumpster Safety Requirements](/stankopedia/standards/dumpster-safety-requirements)
+- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
+- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
+- [The Beauty of Stank](/stankopedia/doctrine/the-beauty-of-stank)
 
 ## Fake References
 

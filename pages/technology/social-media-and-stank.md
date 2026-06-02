@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Metaverse Smells Weird](/technology/the-metaverse-smells-weird)
-- [The Vault of Forgotten Leftovers](/lore/the-vault-of-forgotten-leftovers)
-- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
-- [Quantum Stank Entanglement](/science/quantum-stank-entanglement)
-- [Funkodynamics](/science/funkodynamics)
-- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Metaverse Smells Weird](/stankopedia/technology/the-metaverse-smells-weird)
+- [The Vault of Forgotten Leftovers](/stankopedia/lore/the-vault-of-forgotten-leftovers)
+- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
+- [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
+- [Funkodynamics](/stankopedia/science/funkodynamics)
+- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
 
 ## Fake References
 

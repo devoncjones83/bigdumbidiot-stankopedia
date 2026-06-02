@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Candy Is Very Tasty](/food/candy-is-very-tasty)
-- [The Sacred Funk](/doctrine/the-sacred-funk)
-- [Government Odor Suppression Programs](/government/government-odor-suppression-programs)
-- [Advanced Mustics](/science/advanced-mustics)
-- [Advanced Cheese Studies](/food/advanced-cheese-studies)
-- [The Secret History of Shampoo](/government/the-secret-history-of-shampoo)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Candy Is Very Tasty](/stankopedia/food/candy-is-very-tasty)
+- [The Sacred Funk](/stankopedia/doctrine/the-sacred-funk)
+- [Government Odor Suppression Programs](/stankopedia/government/government-odor-suppression-programs)
+- [Advanced Mustics](/stankopedia/science/advanced-mustics)
+- [Advanced Cheese Studies](/stankopedia/food/advanced-cheese-studies)
+- [The Secret History of Shampoo](/stankopedia/government/the-secret-history-of-shampoo)
 
 ## Fake References
 

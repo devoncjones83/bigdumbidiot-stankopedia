@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Scientific Importance of Nachos](/food/the-scientific-importance-of-nachos)
-- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
-- [Project Lemon Mist](/government/project-lemon-mist)
-- [Ministry of Mild Confusion](/agencies/ministry-of-mild-confusion)
-- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
-- [Social Media and Stank](/technology/social-media-and-stank)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Scientific Importance of Nachos](/stankopedia/food/the-scientific-importance-of-nachos)
+- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
+- [Project Lemon Mist](/stankopedia/government/project-lemon-mist)
+- [Ministry of Mild Confusion](/stankopedia/agencies/ministry-of-mild-confusion)
+- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
+- [Social Media and Stank](/stankopedia/technology/social-media-and-stank)
 
 ## Fake References
 

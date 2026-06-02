@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Candy Is Very Tasty](/food/candy-is-very-tasty)
-- [Odoronomy](/science/odoronomy)
-- [The War of Mildly Damp Towels](/history/the-war-of-mildly-damp-towels)
-- [The Council of Snacks](/food/the-council-of-snacks)
-- [Stank Particle Acceleration](/science/stank-particle-acceleration)
-- [Millifunkle Theory](/science/millifunkle-theory)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Candy Is Very Tasty](/stankopedia/food/candy-is-very-tasty)
+- [Odoronomy](/stankopedia/science/odoronomy)
+- [The War of Mildly Damp Towels](/stankopedia/history/the-war-of-mildly-damp-towels)
+- [The Council of Snacks](/stankopedia/food/the-council-of-snacks)
+- [Stank Particle Acceleration](/stankopedia/science/stank-particle-acceleration)
+- [Millifunkle Theory](/stankopedia/science/millifunkle-theory)
 
 ## Fake References
 

@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Air Freshener Threat Matrix](/standards/air-freshener-threat-matrix)
-- [Quantum Stank Entanglement](/science/quantum-stank-entanglement)
-- [The Musty Prophet](/people/the-musty-prophet)
-- [The Bathing Agenda](/government/the-bathing-agenda)
-- [Funkodynamics](/science/funkodynamics)
-- [The Purity of Must](/doctrine/the-purity-of-must)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Air Freshener Threat Matrix](/stankopedia/standards/air-freshener-threat-matrix)
+- [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
+- [The Musty Prophet](/stankopedia/people/the-musty-prophet)
+- [The Bathing Agenda](/stankopedia/government/the-bathing-agenda)
+- [Funkodynamics](/stankopedia/science/funkodynamics)
+- [The Purity of Must](/stankopedia/doctrine/the-purity-of-must)
 
 ## Fake References
 

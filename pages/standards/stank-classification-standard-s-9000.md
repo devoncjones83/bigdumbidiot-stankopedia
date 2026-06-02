@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Ancient Sock Archives](/lore/the-ancient-sock-archives)
-- [Advanced Cheese Studies](/food/advanced-cheese-studies)
-- [National Funk Administration](/agencies/national-funk-administration)
-- [Project Lemon Mist](/government/project-lemon-mist)
-- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
-- [The Internet of Stank](/technology/the-internet-of-stank)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Ancient Sock Archives](/stankopedia/lore/the-ancient-sock-archives)
+- [Advanced Cheese Studies](/stankopedia/food/advanced-cheese-studies)
+- [National Funk Administration](/stankopedia/agencies/national-funk-administration)
+- [Project Lemon Mist](/stankopedia/government/project-lemon-mist)
+- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
+- [The Internet of Stank](/stankopedia/technology/the-internet-of-stank)
 
 ## Fake References
 

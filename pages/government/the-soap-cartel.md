@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
-- [Why Dessert Comes First](/food/why-dessert-comes-first)
-- [Captain Dumpsterfire](/people/captain-dumpsterfire)
-- [Ministry of Mild Confusion](/agencies/ministry-of-mild-confusion)
-- [Certified Funk Technician Handbook](/standards/certified-funk-technician-handbook)
-- [Dumpster Safety Requirements](/standards/dumpster-safety-requirements)
-- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
+- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
+- [Captain Dumpsterfire](/stankopedia/people/captain-dumpsterfire)
+- [Ministry of Mild Confusion](/stankopedia/agencies/ministry-of-mild-confusion)
+- [Certified Funk Technician Handbook](/stankopedia/standards/certified-funk-technician-handbook)
+- [Dumpster Safety Requirements](/stankopedia/standards/dumpster-safety-requirements)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
 
 ## Fake References
 

@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Advanced Must Calibration Guide](/standards/advanced-must-calibration-guide)
-- [The Metaverse Smells Weird](/technology/the-metaverse-smells-weird)
-- [The Febreeze Catastrophe](/history/the-febreeze-catastrophe)
-- [The War of Mildly Damp Towels](/history/the-war-of-mildly-damp-towels)
-- [The Path of Funk](/doctrine/the-path-of-funk)
-- [Advanced Cheese Studies](/food/advanced-cheese-studies)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Advanced Must Calibration Guide](/stankopedia/standards/advanced-must-calibration-guide)
+- [The Metaverse Smells Weird](/stankopedia/technology/the-metaverse-smells-weird)
+- [The Febreeze Catastrophe](/stankopedia/history/the-febreeze-catastrophe)
+- [The War of Mildly Damp Towels](/stankopedia/history/the-war-of-mildly-damp-towels)
+- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
+- [Advanced Cheese Studies](/stankopedia/food/advanced-cheese-studies)
 
 ## Fake References
 

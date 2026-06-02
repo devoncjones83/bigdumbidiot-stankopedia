@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Rise of Grimehold](/history/the-rise-of-grimehold)
-- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
-- [Why Soap Cannot Be Trusted](/doctrine/why-soap-cannot-be-trusted)
-- [The Sacred Funk](/doctrine/the-sacred-funk)
-- [The Battle of Funk Ridge](/history/the-battle-of-funk-ridge)
-- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
+- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
+- [Why Soap Cannot Be Trusted](/stankopedia/doctrine/why-soap-cannot-be-trusted)
+- [The Sacred Funk](/stankopedia/doctrine/the-sacred-funk)
+- [The Battle of Funk Ridge](/stankopedia/history/the-battle-of-funk-ridge)
+- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
 
 ## Fake References
 

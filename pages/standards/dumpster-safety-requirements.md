@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Earl of Funkshire](/people/earl-of-funkshire)
-- [Freshness Heresies](/doctrine/freshness-heresies)
-- [The Purity of Must](/doctrine/the-purity-of-must)
-- [Why Fresh Laundry Is Suspicious](/science/why-fresh-laundry-is-suspicious)
-- [Emergency Nacho Containment](/standards/emergency-nacho-containment)
-- [Freshness Containment Authority](/agencies/freshness-containment-authority)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Earl of Funkshire](/stankopedia/people/earl-of-funkshire)
+- [Freshness Heresies](/stankopedia/doctrine/freshness-heresies)
+- [The Purity of Must](/stankopedia/doctrine/the-purity-of-must)
+- [Why Fresh Laundry Is Suspicious](/stankopedia/science/why-fresh-laundry-is-suspicious)
+- [Emergency Nacho Containment](/stankopedia/standards/emergency-nacho-containment)
+- [Freshness Containment Authority](/stankopedia/agencies/freshness-containment-authority)
 
 ## Fake References
 

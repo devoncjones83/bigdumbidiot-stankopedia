@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Lemon Scent Paradox](/science/the-lemon-scent-paradox)
-- [The Unknown Janitor of Grimehold](/people/the-unknown-janitor-of-grimehold)
-- [Quantum Stank Entanglement](/science/quantum-stank-entanglement)
-- [The Sacred Burrito](/food/the-sacred-burrito)
-- [The Musty Prophet](/people/the-musty-prophet)
-- [Odoronomy](/science/odoronomy)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Lemon Scent Paradox](/stankopedia/science/the-lemon-scent-paradox)
+- [The Unknown Janitor of Grimehold](/stankopedia/people/the-unknown-janitor-of-grimehold)
+- [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
+- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
+- [The Musty Prophet](/stankopedia/people/the-musty-prophet)
+- [Odoronomy](/stankopedia/science/odoronomy)
 
 ## Fake References
 

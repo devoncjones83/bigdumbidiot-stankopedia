@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Metaverse Smells Weird](/technology/the-metaverse-smells-weird)
-- [Captain Dumpsterfire](/people/captain-dumpsterfire)
-- [Sister Mildew](/people/sister-mildew)
-- [Strategic Cheese Reserve](/agencies/strategic-cheese-reserve)
-- [Agency for Snack Excellence](/agencies/agency-for-snack-excellence)
-- [The Vault of Forgotten Leftovers](/lore/the-vault-of-forgotten-leftovers)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Metaverse Smells Weird](/stankopedia/technology/the-metaverse-smells-weird)
+- [Captain Dumpsterfire](/stankopedia/people/captain-dumpsterfire)
+- [Sister Mildew](/stankopedia/people/sister-mildew)
+- [Strategic Cheese Reserve](/stankopedia/agencies/strategic-cheese-reserve)
+- [Agency for Snack Excellence](/stankopedia/agencies/agency-for-snack-excellence)
+- [The Vault of Forgotten Leftovers](/stankopedia/lore/the-vault-of-forgotten-leftovers)
 
 ## Fake References
 

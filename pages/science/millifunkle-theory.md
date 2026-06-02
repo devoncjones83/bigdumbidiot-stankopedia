@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
-- [Cloud-Based Funk Distribution](/technology/cloud-based-funk-distribution)
-- [Cryptocurrency and Dumpster Economics](/technology/cryptocurrency-and-dumpster-economics)
-- [The Physics of Funk](/science/the-physics-of-funk)
-- [The Scientific Importance of Nachos](/food/the-scientific-importance-of-nachos)
-- [The Great Freshening Incident of 1987](/history/the-great-freshening-incident-of-1987)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
+- [Cloud-Based Funk Distribution](/stankopedia/technology/cloud-based-funk-distribution)
+- [Cryptocurrency and Dumpster Economics](/stankopedia/technology/cryptocurrency-and-dumpster-economics)
+- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
+- [The Scientific Importance of Nachos](/stankopedia/food/the-scientific-importance-of-nachos)
+- [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
 
 ## Fake References
 

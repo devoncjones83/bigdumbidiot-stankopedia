@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Why French Fries Improve Wisdom](/food/why-french-fries-improve-wisdom)
-- [The Rise of Grimehold](/history/the-rise-of-grimehold)
-- [The First Dumpster Council](/history/the-first-dumpster-council)
-- [The Sacred Burrito](/food/the-sacred-burrito)
-- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
-- [Doctor Mustington](/people/doctor-mustington)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Why French Fries Improve Wisdom](/stankopedia/food/why-french-fries-improve-wisdom)
+- [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
+- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
+- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
+- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
+- [Doctor Mustington](/stankopedia/people/doctor-mustington)
 
 ## Fake References
 

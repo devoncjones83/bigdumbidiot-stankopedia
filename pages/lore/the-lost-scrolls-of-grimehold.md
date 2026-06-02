@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Controlled Funk Reactions](/science/controlled-funk-reactions)
-- [Operation Lemon Breeze](/history/operation-lemon-breeze)
-- [Emergency Cake Procedures](/food/emergency-cake-procedures)
-- [Social Media and Stank](/technology/social-media-and-stank)
-- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
-- [Odoronomy](/science/odoronomy)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
+- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
+- [Emergency Cake Procedures](/stankopedia/food/emergency-cake-procedures)
+- [Social Media and Stank](/stankopedia/technology/social-media-and-stank)
+- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
+- [Odoronomy](/stankopedia/science/odoronomy)
 
 ## Fake References
 

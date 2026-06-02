@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Why Hotels Give Away Tiny Soaps](/government/why-hotels-give-away-tiny-soaps)
-- [Millifunkle Theory](/science/millifunkle-theory)
-- [The Theory of Recursive Odors](/science/the-theory-of-recursive-odors)
-- [The Vault of Forgotten Leftovers](/lore/the-vault-of-forgotten-leftovers)
-- [The Sacred Burrito](/food/the-sacred-burrito)
-- [Operation Lemon Breeze](/history/operation-lemon-breeze)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Why Hotels Give Away Tiny Soaps](/stankopedia/government/why-hotels-give-away-tiny-soaps)
+- [Millifunkle Theory](/stankopedia/science/millifunkle-theory)
+- [The Theory of Recursive Odors](/stankopedia/science/the-theory-of-recursive-odors)
+- [The Vault of Forgotten Leftovers](/stankopedia/lore/the-vault-of-forgotten-leftovers)
+- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
+- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
 
 ## Fake References
 

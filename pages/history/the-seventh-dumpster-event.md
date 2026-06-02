@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Why French Fries Improve Wisdom](/food/why-french-fries-improve-wisdom)
-- [The Council of Snacks](/food/the-council-of-snacks)
-- [Government Soap Detection Guide](/standards/government-soap-detection-guide)
-- [The First Dumpster Council](/history/the-first-dumpster-council)
-- [Baron von Stank](/people/baron-von-stank)
-- [Ancient Donut Traditions](/food/ancient-donut-traditions)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Why French Fries Improve Wisdom](/stankopedia/food/why-french-fries-improve-wisdom)
+- [The Council of Snacks](/stankopedia/food/the-council-of-snacks)
+- [Government Soap Detection Guide](/stankopedia/standards/government-soap-detection-guide)
+- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
+- [Baron von Stank](/stankopedia/people/baron-von-stank)
+- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
 
 ## Fake References
 

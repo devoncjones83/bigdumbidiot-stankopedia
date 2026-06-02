@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Emergency Nacho Containment](/standards/emergency-nacho-containment)
-- [The Vault of Forgotten Leftovers](/lore/the-vault-of-forgotten-leftovers)
-- [Strategic Cheese Reserve](/agencies/strategic-cheese-reserve)
-- [Why Robots Fear Odors](/technology/why-robots-fear-odors)
-- [Government Soap Detection Guide](/standards/government-soap-detection-guide)
-- [Odoronomy](/science/odoronomy)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Emergency Nacho Containment](/stankopedia/standards/emergency-nacho-containment)
+- [The Vault of Forgotten Leftovers](/stankopedia/lore/the-vault-of-forgotten-leftovers)
+- [Strategic Cheese Reserve](/stankopedia/agencies/strategic-cheese-reserve)
+- [Why Robots Fear Odors](/stankopedia/technology/why-robots-fear-odors)
+- [Government Soap Detection Guide](/stankopedia/standards/government-soap-detection-guide)
+- [Odoronomy](/stankopedia/science/odoronomy)
 
 ## Fake References
 

@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
-- [The Physics of Funk](/science/the-physics-of-funk)
-- [Applied Dumpster Dynamics](/science/applied-dumpster-dynamics)
-- [The Battle of Funk Ridge](/history/the-battle-of-funk-ridge)
-- [Advanced Mustics](/science/advanced-mustics)
-- [Stank Classification Standard S-9000](/standards/stank-classification-standard-s-9000)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
+- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
+- [Applied Dumpster Dynamics](/stankopedia/science/applied-dumpster-dynamics)
+- [The Battle of Funk Ridge](/stankopedia/history/the-battle-of-funk-ridge)
+- [Advanced Mustics](/stankopedia/science/advanced-mustics)
+- [Stank Classification Standard S-9000](/stankopedia/standards/stank-classification-standard-s-9000)
 
 ## Fake References
 

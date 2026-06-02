@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Theory of Recursive Odors](/science/the-theory-of-recursive-odors)
-- [The First Dumpster Council](/history/the-first-dumpster-council)
-- [Emergency Cake Procedures](/food/emergency-cake-procedures)
-- [The Beauty of Stank](/doctrine/the-beauty-of-stank)
-- [Sister Mildew](/people/sister-mildew)
-- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Theory of Recursive Odors](/stankopedia/science/the-theory-of-recursive-odors)
+- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
+- [Emergency Cake Procedures](/stankopedia/food/emergency-cake-procedures)
+- [The Beauty of Stank](/stankopedia/doctrine/the-beauty-of-stank)
+- [Sister Mildew](/stankopedia/people/sister-mildew)
+- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
 
 ## Fake References
 

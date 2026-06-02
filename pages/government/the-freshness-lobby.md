@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Doctor Mustington](/people/doctor-mustington)
-- [Funkodynamics](/science/funkodynamics)
-- [Ministry of Mild Confusion](/agencies/ministry-of-mild-confusion)
-- [Candy Resonance](/science/candy-resonance)
-- [The Prophecy of Funk](/lore/the-prophecy-of-funk)
-- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Doctor Mustington](/stankopedia/people/doctor-mustington)
+- [Funkodynamics](/stankopedia/science/funkodynamics)
+- [Ministry of Mild Confusion](/stankopedia/agencies/ministry-of-mild-confusion)
+- [Candy Resonance](/stankopedia/science/candy-resonance)
+- [The Prophecy of Funk](/stankopedia/lore/the-prophecy-of-funk)
+- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
 
 ## Fake References
 

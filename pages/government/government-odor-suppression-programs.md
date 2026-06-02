@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
-- [Baron von Stank](/people/baron-von-stank)
-- [Operation Lemon Breeze](/history/operation-lemon-breeze)
-- [Sister Mildew](/people/sister-mildew)
-- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
-- [The Great Cheese Migration](/history/the-great-cheese-migration)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
+- [Baron von Stank](/stankopedia/people/baron-von-stank)
+- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
+- [Sister Mildew](/stankopedia/people/sister-mildew)
+- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
+- [The Great Cheese Migration](/stankopedia/history/the-great-cheese-migration)
 
 ## Fake References
 

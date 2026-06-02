@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
-- [Basement Humidity Studies](/science/basement-humidity-studies)
-- [Bureau of Odor Preservation](/agencies/bureau-of-odor-preservation)
-- [Aromatic Enlightenment](/doctrine/aromatic-enlightenment)
-- [Candy Is Very Tasty](/food/candy-is-very-tasty)
-- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
+- [Basement Humidity Studies](/stankopedia/science/basement-humidity-studies)
+- [Bureau of Odor Preservation](/stankopedia/agencies/bureau-of-odor-preservation)
+- [Aromatic Enlightenment](/stankopedia/doctrine/aromatic-enlightenment)
+- [Candy Is Very Tasty](/stankopedia/food/candy-is-very-tasty)
+- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
 
 ## Fake References
 

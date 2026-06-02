@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Purity of Must](/doctrine/the-purity-of-must)
-- [Ministry of Mild Confusion](/agencies/ministry-of-mild-confusion)
-- [Applied Dumpster Dynamics](/science/applied-dumpster-dynamics)
-- [Stank in the Digital Age](/technology/stank-in-the-digital-age)
-- [The Future of Funk](/technology/the-future-of-funk)
-- [Controlled Funk Reactions](/science/controlled-funk-reactions)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Purity of Must](/stankopedia/doctrine/the-purity-of-must)
+- [Ministry of Mild Confusion](/stankopedia/agencies/ministry-of-mild-confusion)
+- [Applied Dumpster Dynamics](/stankopedia/science/applied-dumpster-dynamics)
+- [Stank in the Digital Age](/stankopedia/technology/stank-in-the-digital-age)
+- [The Future of Funk](/stankopedia/technology/the-future-of-funk)
+- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
 
 ## Fake References
 

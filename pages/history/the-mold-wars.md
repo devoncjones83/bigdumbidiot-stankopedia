@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Freshness Heresies](/doctrine/freshness-heresies)
-- [The Raccoon Reformation](/history/the-raccoon-reformation)
-- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
-- [The Seventh Dumpster Event](/history/the-seventh-dumpster-event)
-- [The Bathing Agenda](/government/the-bathing-agenda)
-- [Sister Mildew](/people/sister-mildew)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Freshness Heresies](/stankopedia/doctrine/freshness-heresies)
+- [The Raccoon Reformation](/stankopedia/history/the-raccoon-reformation)
+- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
+- [The Seventh Dumpster Event](/stankopedia/history/the-seventh-dumpster-event)
+- [The Bathing Agenda](/stankopedia/government/the-bathing-agenda)
+- [Sister Mildew](/stankopedia/people/sister-mildew)
 
 ## Fake References
 

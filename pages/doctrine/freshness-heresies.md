@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Earl of Funkshire](/people/earl-of-funkshire)
-- [Advanced Cheese Studies](/food/advanced-cheese-studies)
-- [The Sacred Burrito](/food/the-sacred-burrito)
-- [Agency for Snack Excellence](/agencies/agency-for-snack-excellence)
-- [Measuring Stank Density](/science/measuring-stank-density)
-- [Artificial Intelligence and Mustiness](/technology/artificial-intelligence-and-mustiness)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Earl of Funkshire](/stankopedia/people/earl-of-funkshire)
+- [Advanced Cheese Studies](/stankopedia/food/advanced-cheese-studies)
+- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
+- [Agency for Snack Excellence](/stankopedia/agencies/agency-for-snack-excellence)
+- [Measuring Stank Density](/stankopedia/science/measuring-stank-density)
+- [Artificial Intelligence and Mustiness](/stankopedia/technology/artificial-intelligence-and-mustiness)
 
 ## Fake References
 

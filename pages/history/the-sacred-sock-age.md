@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Captain Dumpsterfire](/people/captain-dumpsterfire)
-- [The Seventh Dumpster Event](/history/the-seventh-dumpster-event)
-- [Hidden Messages in Air Freshener Commercials](/government/hidden-messages-in-air-freshener-commercials)
-- [The Musty Prophet](/people/the-musty-prophet)
-- [The Beauty of Stank](/doctrine/the-beauty-of-stank)
-- [The Great Freshening Incident of 1987](/history/the-great-freshening-incident-of-1987)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Captain Dumpsterfire](/stankopedia/people/captain-dumpsterfire)
+- [The Seventh Dumpster Event](/stankopedia/history/the-seventh-dumpster-event)
+- [Hidden Messages in Air Freshener Commercials](/stankopedia/government/hidden-messages-in-air-freshener-commercials)
+- [The Musty Prophet](/stankopedia/people/the-musty-prophet)
+- [The Beauty of Stank](/stankopedia/doctrine/the-beauty-of-stank)
+- [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
 
 ## Fake References
 

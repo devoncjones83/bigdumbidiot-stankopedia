@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
-- [Why Soap Cannot Be Trusted](/doctrine/why-soap-cannot-be-trusted)
-- [The Freshness Lobby](/government/the-freshness-lobby)
-- [The Path of Funk](/doctrine/the-path-of-funk)
-- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
-- [The Metaverse Smells Weird](/technology/the-metaverse-smells-weird)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
+- [Why Soap Cannot Be Trusted](/stankopedia/doctrine/why-soap-cannot-be-trusted)
+- [The Freshness Lobby](/stankopedia/government/the-freshness-lobby)
+- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
+- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
+- [The Metaverse Smells Weird](/stankopedia/technology/the-metaverse-smells-weird)
 
 ## Fake References
 

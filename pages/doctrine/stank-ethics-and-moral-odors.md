@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Why French Fries Improve Wisdom](/food/why-french-fries-improve-wisdom)
-- [Candy Is Very Tasty](/food/candy-is-very-tasty)
-- [The Theory of Recursive Odors](/science/the-theory-of-recursive-odors)
-- [Why Robots Fear Odors](/technology/why-robots-fear-odors)
-- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
-- [Candy Consumption Best Practices](/standards/candy-consumption-best-practices)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Why French Fries Improve Wisdom](/stankopedia/food/why-french-fries-improve-wisdom)
+- [Candy Is Very Tasty](/stankopedia/food/candy-is-very-tasty)
+- [The Theory of Recursive Odors](/stankopedia/science/the-theory-of-recursive-odors)
+- [Why Robots Fear Odors](/stankopedia/technology/why-robots-fear-odors)
+- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
+- [Candy Consumption Best Practices](/stankopedia/standards/candy-consumption-best-practices)
 
 ## Fake References
 

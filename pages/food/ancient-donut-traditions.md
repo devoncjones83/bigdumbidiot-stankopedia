@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Measuring Stank Density](/science/measuring-stank-density)
-- [The Bathing Agenda](/government/the-bathing-agenda)
-- [Odoronomy](/science/odoronomy)
-- [Doctor Mustington](/people/doctor-mustington)
-- [The Internet of Stank](/technology/the-internet-of-stank)
-- [The Seventh Dumpster Event](/history/the-seventh-dumpster-event)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Measuring Stank Density](/stankopedia/science/measuring-stank-density)
+- [The Bathing Agenda](/stankopedia/government/the-bathing-agenda)
+- [Odoronomy](/stankopedia/science/odoronomy)
+- [Doctor Mustington](/stankopedia/people/doctor-mustington)
+- [The Internet of Stank](/stankopedia/technology/the-internet-of-stank)
+- [The Seventh Dumpster Event](/stankopedia/history/the-seventh-dumpster-event)
 
 ## Fake References
 

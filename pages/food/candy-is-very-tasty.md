@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Stank Ethics and Moral Odors](/doctrine/stank-ethics-and-moral-odors)
-- [Government Odor Suppression Programs](/government/government-odor-suppression-programs)
-- [Stank in the Digital Age](/technology/stank-in-the-digital-age)
-- [The Lemon Scent Paradox](/science/the-lemon-scent-paradox)
-- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
-- [Hidden Messages in Air Freshener Commercials](/government/hidden-messages-in-air-freshener-commercials)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Stank Ethics and Moral Odors](/stankopedia/doctrine/stank-ethics-and-moral-odors)
+- [Government Odor Suppression Programs](/stankopedia/government/government-odor-suppression-programs)
+- [Stank in the Digital Age](/stankopedia/technology/stank-in-the-digital-age)
+- [The Lemon Scent Paradox](/stankopedia/science/the-lemon-scent-paradox)
+- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
+- [Hidden Messages in Air Freshener Commercials](/stankopedia/government/hidden-messages-in-air-freshener-commercials)
 
 ## Fake References
 

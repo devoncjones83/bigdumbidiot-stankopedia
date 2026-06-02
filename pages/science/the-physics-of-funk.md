@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Ancient Donut Traditions](/food/ancient-donut-traditions)
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Beauty of Stank](/doctrine/the-beauty-of-stank)
-- [Stank in the Digital Age](/technology/stank-in-the-digital-age)
-- [The Forbidden Dryer Sheet](/lore/the-forbidden-dryer-sheet)
-- [Department of Candy Security](/agencies/department-of-candy-security)
-- [Funkodynamics](/science/funkodynamics)
+- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Beauty of Stank](/stankopedia/doctrine/the-beauty-of-stank)
+- [Stank in the Digital Age](/stankopedia/technology/stank-in-the-digital-age)
+- [The Forbidden Dryer Sheet](/stankopedia/lore/the-forbidden-dryer-sheet)
+- [Department of Candy Security](/stankopedia/agencies/department-of-candy-security)
+- [Funkodynamics](/stankopedia/science/funkodynamics)
 
 ## Fake References
 

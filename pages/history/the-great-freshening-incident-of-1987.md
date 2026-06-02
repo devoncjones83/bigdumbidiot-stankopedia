@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Council of Snacks](/food/the-council-of-snacks)
-- [The Physics of Funk](/science/the-physics-of-funk)
-- [Ancient Donut Traditions](/food/ancient-donut-traditions)
-- [The Forbidden Dryer Sheet](/lore/the-forbidden-dryer-sheet)
-- [The Sacred Funk](/doctrine/the-sacred-funk)
-- [Office of Questionable Science](/agencies/office-of-questionable-science)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Council of Snacks](/stankopedia/food/the-council-of-snacks)
+- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
+- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
+- [The Forbidden Dryer Sheet](/stankopedia/lore/the-forbidden-dryer-sheet)
+- [The Sacred Funk](/stankopedia/doctrine/the-sacred-funk)
+- [Office of Questionable Science](/stankopedia/agencies/office-of-questionable-science)
 
 ## Fake References
 

@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Strategic Cheese Reserve](/agencies/strategic-cheese-reserve)
-- [The Beauty of Stank](/doctrine/the-beauty-of-stank)
-- [Emergency Cake Procedures](/food/emergency-cake-procedures)
-- [Measuring Stank Density](/science/measuring-stank-density)
-- [The Rise of Grimehold](/history/the-rise-of-grimehold)
-- [Dumpster Safety Requirements](/standards/dumpster-safety-requirements)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Strategic Cheese Reserve](/stankopedia/agencies/strategic-cheese-reserve)
+- [The Beauty of Stank](/stankopedia/doctrine/the-beauty-of-stank)
+- [Emergency Cake Procedures](/stankopedia/food/emergency-cake-procedures)
+- [Measuring Stank Density](/stankopedia/science/measuring-stank-density)
+- [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
+- [Dumpster Safety Requirements](/stankopedia/standards/dumpster-safety-requirements)
 
 ## Fake References
 

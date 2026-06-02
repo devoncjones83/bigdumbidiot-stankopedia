@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Social Media and Stank](/technology/social-media-and-stank)
-- [Basement Humidity Studies](/science/basement-humidity-studies)
-- [The Funk Nexus](/lore/the-funk-nexus)
-- [The Febreeze Catastrophe](/history/the-febreeze-catastrophe)
-- [Earl of Funkshire](/people/earl-of-funkshire)
-- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Social Media and Stank](/stankopedia/technology/social-media-and-stank)
+- [Basement Humidity Studies](/stankopedia/science/basement-humidity-studies)
+- [The Funk Nexus](/stankopedia/lore/the-funk-nexus)
+- [The Febreeze Catastrophe](/stankopedia/history/the-febreeze-catastrophe)
+- [Earl of Funkshire](/stankopedia/people/earl-of-funkshire)
+- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
 
 ## Fake References
 

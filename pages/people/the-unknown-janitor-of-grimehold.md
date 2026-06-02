@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Soap Cartel](/government/the-soap-cartel)
-- [The Internet of Stank](/technology/the-internet-of-stank)
-- [The Febreeze Catastrophe](/history/the-febreeze-catastrophe)
-- [Office of Questionable Science](/agencies/office-of-questionable-science)
-- [The Sacred Sock Age](/history/the-sacred-sock-age)
-- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Soap Cartel](/stankopedia/government/the-soap-cartel)
+- [The Internet of Stank](/stankopedia/technology/the-internet-of-stank)
+- [The Febreeze Catastrophe](/stankopedia/history/the-febreeze-catastrophe)
+- [Office of Questionable Science](/stankopedia/agencies/office-of-questionable-science)
+- [The Sacred Sock Age](/stankopedia/history/the-sacred-sock-age)
+- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
 
 ## Fake References
 

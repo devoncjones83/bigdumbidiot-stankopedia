@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Theory of Recursive Odors](/science/the-theory-of-recursive-odors)
-- [The Raccoon Reformation](/history/the-raccoon-reformation)
-- [Sister Mildew](/people/sister-mildew)
-- [The Future of Funk](/technology/the-future-of-funk)
-- [Quantum Stank Entanglement](/science/quantum-stank-entanglement)
-- [Stank Classification Standard S-9000](/standards/stank-classification-standard-s-9000)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Theory of Recursive Odors](/stankopedia/science/the-theory-of-recursive-odors)
+- [The Raccoon Reformation](/stankopedia/history/the-raccoon-reformation)
+- [Sister Mildew](/stankopedia/people/sister-mildew)
+- [The Future of Funk](/stankopedia/technology/the-future-of-funk)
+- [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
+- [Stank Classification Standard S-9000](/stankopedia/standards/stank-classification-standard-s-9000)
 
 ## Fake References
 

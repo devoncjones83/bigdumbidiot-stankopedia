@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Great Dryer Sheet Uprising](/history/the-great-dryer-sheet-uprising)
-- [The Great Freshening Incident of 1987](/history/the-great-freshening-incident-of-1987)
-- [The Great Cheese Migration](/history/the-great-cheese-migration)
-- [The First Dumpster Council](/history/the-first-dumpster-council)
-- [Operation Lemon Breeze](/history/operation-lemon-breeze)
-- [Freshness Containment Authority](/agencies/freshness-containment-authority)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Great Dryer Sheet Uprising](/stankopedia/history/the-great-dryer-sheet-uprising)
+- [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
+- [The Great Cheese Migration](/stankopedia/history/the-great-cheese-migration)
+- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
+- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
+- [Freshness Containment Authority](/stankopedia/agencies/freshness-containment-authority)
 
 ## Fake References
 

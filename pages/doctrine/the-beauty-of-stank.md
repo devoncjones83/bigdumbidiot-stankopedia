@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [The Rise of Grimehold](/history/the-rise-of-grimehold)
-- [The Physics of Funk](/science/the-physics-of-funk)
-- [Advanced Cheese Studies](/food/advanced-cheese-studies)
-- [The Sacred Hoodie](/lore/the-sacred-hoodie)
-- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
-- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
+- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
+- [Advanced Cheese Studies](/stankopedia/food/advanced-cheese-studies)
+- [The Sacred Hoodie](/stankopedia/lore/the-sacred-hoodie)
+- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
+- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
 
 ## Fake References
 

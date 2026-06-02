@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Advanced Must Calibration Guide](/standards/advanced-must-calibration-guide)
-- [Funkodynamics](/science/funkodynamics)
-- [Why French Fries Improve Wisdom](/food/why-french-fries-improve-wisdom)
-- [The Purity of Must](/doctrine/the-purity-of-must)
-- [Why Robots Fear Odors](/technology/why-robots-fear-odors)
-- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Advanced Must Calibration Guide](/stankopedia/standards/advanced-must-calibration-guide)
+- [Funkodynamics](/stankopedia/science/funkodynamics)
+- [Why French Fries Improve Wisdom](/stankopedia/food/why-french-fries-improve-wisdom)
+- [The Purity of Must](/stankopedia/doctrine/the-purity-of-must)
+- [Why Robots Fear Odors](/stankopedia/technology/why-robots-fear-odors)
+- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
 
 ## Fake References
 

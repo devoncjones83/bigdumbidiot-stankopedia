@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/people/greg-the-raccoon)
-- [Government Odor Suppression Programs](/government/government-odor-suppression-programs)
-- [Sister Mildew](/people/sister-mildew)
-- [The Sacred Burrito](/food/the-sacred-burrito)
-- [Approved Sources of Stank](/standards/approved-sources-of-stank)
-- [The Internet of Stank](/technology/the-internet-of-stank)
-- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
+- [Government Odor Suppression Programs](/stankopedia/government/government-odor-suppression-programs)
+- [Sister Mildew](/stankopedia/people/sister-mildew)
+- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
+- [Approved Sources of Stank](/stankopedia/standards/approved-sources-of-stank)
+- [The Internet of Stank](/stankopedia/technology/the-internet-of-stank)
+- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
 
 ## Fake References
 
