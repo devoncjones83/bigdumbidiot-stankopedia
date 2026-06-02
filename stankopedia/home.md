@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: 
 published: true
-date: 2026-06-01T04:20:23.984Z
+date: 2026-06-02T01:18:21.892Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-01T03:40:48.731Z
@@ -24,12 +24,12 @@ Stankopedia is the world's leading repository of certified nonsense, advanced fu
 
 The foundational teachings of modern stankology.
 
-* [The Stank Doctrine](/en/stankopedia/doctrine/the-stank-doctrine)
-* [The Beauty of Stank](/en/stankopedia/doctrine/the-beauty-of-stank)
-* [The Path of Funk](/en/stankopedia/doctrine/the-path-of-funk)
-* [The Purity of Must](/en/stankopedia/doctrine/the-purity-of-must)
-* [Why Soap Cannot Be Trusted](/en/stankopedia/doctrine/why-soap-cannot-be-trusted)
-* [Freshness Heresies](/en/stankopedia/doctrine/freshness-heresies)
+* [The Stank Doctrine](/stankopedia/doctrine/the-stank-doctrine)
+* [The Beauty of Stank](/stankopedia/doctrine/the-beauty-of-stank)
+* [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
+* [The Purity of Must](/stankopedia/doctrine/the-purity-of-must)
+* [Why Soap Cannot Be Trusted](/stankopedia/doctrine/why-soap-cannot-be-trusted)
+* [Freshness Heresies](/stankopedia/doctrine/freshness-heresies)
 
 ---
 
@@ -37,12 +37,12 @@ The foundational teachings of modern stankology.
 
 Declassified records concerning the ongoing war against freshness.
 
-* [The Bathing Agenda](/en/stankopedia/government/the-bathing-agenda)
-* [The Soap Cartel](/en/stankopedia/government/the-soap-cartel)
-* [Project Lemon Mist](/en/stankopedia/government/project-lemon-mist)
-* [The Freshness Lobby](/en/stankopedia/government/the-freshness-lobby)
-* [The Deodorant Industrial Complex](/en/stankopedia/government/the-deodorant-industrial-complex)
-* [Government Odor Suppression Programs](/en/stankopedia/government/government-odor-suppression-programs)
+* [The Bathing Agenda](/stankopedia/government/the-bathing-agenda)
+* [The Soap Cartel](/stankopedia/government/the-soap-cartel)
+* [Project Lemon Mist](/stankopedia/government/project-lemon-mist)
+* [The Freshness Lobby](/stankopedia/government/the-freshness-lobby)
+* [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
+* [Government Odor Suppression Programs](/stankopedia/government/government-odor-suppression-programs)
 
 ---
 
@@ -50,11 +50,11 @@ Declassified records concerning the ongoing war against freshness.
 
 Peer-reviewed by absolutely nobody.
 
-* [Measuring Stank Density](/en/stankopedia/science/measuring-stank-density)
-* [Advanced Sock Physics](/en/stankopedia/science/advanced-sock-physics)
-* [Quantum Stank Entanglement](/en/stankopedia/science/quantum-stank-entanglement)
-* [The Funk Field Theory](/en/stankopedia/science/the-funk-field-theory)
-* [Applied Dumpster Dynamics](/en/stankopedia/science/applied-dumpster-dynamics)
+* [Measuring Stank Density](/stankopedia/science/measuring-stank-density)
+* [Advanced Sock Physics](/stankopedia/science/advanced-sock-physics)
+* [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
+* [The Funk Field Theory](/stankopedia/science/the-funk-field-theory)
+* [Applied Dumpster Dynamics](/stankopedia/science/applied-dumpster-dynamics)
 
 ---
 
@@ -62,12 +62,12 @@ Peer-reviewed by absolutely nobody.
 
 A timeline of the greatest events in stank history.
 
-* [The Great Dryer Sheet Uprising](/en/stankopedia/history/the-great-dryer-sheet-uprising)
-* [The Battle of Funk Ridge](/en/stankopedia/history/the-battle-of-funk-ridge)
-* [The Rise of Grimehold](/en/stankopedia/history/the-rise-of-grimehold)
-* [The Mold Wars](/en/stankopedia/history/the-mold-wars)
-* [The Raccoon Reformation](/en/stankopedia/history/the-raccoon-reformation)
-* [The Great Freshening Incident of 1987](/en/stankopedia/history/the-great-freshening-incident-of-1987)
+* [The Great Dryer Sheet Uprising](/stankopedia/history/the-great-dryer-sheet-uprising)
+* [The Battle of Funk Ridge](/stankopedia/history/the-battle-of-funk-ridge)
+* [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
+* [The Mold Wars](/stankopedia/history/the-mold-wars)
+* [The Raccoon Reformation](/stankopedia/history/the-raccoon-reformation)
+* [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
 
 ---
 
@@ -75,9 +75,9 @@ A timeline of the greatest events in stank history.
 
 Heroes, scholars, and questionable leaders.
 
-* [Baron Von Stank](/en/stankopedia/people/baron-von-stank)
-* [Captain Dumpsterfire](/en/stankopedia/people/captain-dumpsterfire)
-* [Doctor Mustington](/en/stankopedia/people/doctor-mustington)
+* [Baron Von Stank](/stankopedia/people/baron-von-stank)
+* [Captain Dumpsterfire](/stankopedia/people/captain-dumpsterfire)
+* [Doctor Mustington](/stankopedia/people/doctor-mustington)
 
 ---
 
@@ -85,11 +85,11 @@ Heroes, scholars, and questionable leaders.
 
 The most respected academic discipline.
 
-* [Candy Is Very Tasty](/en/stankopedia/food/candy-is-very-tasty)
-* [The Scientific Importance of Nachos](/en/stankopedia/food/the-scientific-importance-of-nachos)
-* [Advanced Cheese Studies](/en/stankopedia/food/advanced-cheese-studies)
-* [The Council of Snacks](/en/stankopedia/food/the-council-of-snacks)
-* [The Sacred Burrito](/en/stankopedia/food/the-sacred-burrito)
+* [Candy Is Very Tasty](/stankopedia/food/candy-is-very-tasty)
+* [The Scientific Importance of Nachos](/stankopedia/food/the-scientific-importance-of-nachos)
+* [Advanced Cheese Studies](/stankopedia/food/advanced-cheese-studies)
+* [The Council of Snacks](/stankopedia/food/the-council-of-snacks)
+* [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
 
 ---
 
@@ -97,11 +97,11 @@ The most respected academic discipline.
 
 Institutions dedicated to protecting civilization from excessive cleanliness.
 
-* [Department of Advanced Stank](/en/stankopedia/agencies/department-of-advanced-stank)
-* [National Funk Administration](/en/stankopedia/agencies/national-funk-administration)
-* [Bureau of Raccoon Affairs](/en/stankopedia/agencies/bureau-of-raccoon-affairs)
-* [Office of Questionable Science](/en/stankopedia/agencies/office-of-questionable-science)
-* [Strategic Cheese Reserve](/en/stankopedia/agencies/strategic-cheese-reserve)
+* [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
+* [National Funk Administration](/stankopedia/agencies/national-funk-administration)
+* [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
+* [Office of Questionable Science](/stankopedia/agencies/office-of-questionable-science)
+* [Strategic Cheese Reserve](/stankopedia/agencies/strategic-cheese-reserve)
 
 ---
 
