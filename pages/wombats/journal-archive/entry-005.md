@@ -1,3 +1,13 @@
+---
+title: entry-005
+description: 
+published: true
+date: 2026-06-03T03:36:00.239Z
+tags: 
+editor: markdown
+dateCreated: 2026-06-03T03:28:48.301Z
+---
+
 # Personal Journal of Dr. Aldus Wombsworth
 
 ## Entry 5
