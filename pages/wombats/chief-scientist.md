@@ -1,3 +1,13 @@
+---
+title: chief-scientist
+description: 
+published: true
+date: 2026-06-03T03:39:08.245Z
+tags: 
+editor: markdown
+dateCreated: 2026-06-03T03:28:34.992Z
+---
+
 # WC-10 Chief Scientist
 
 ![Chief Scientist](/images/wombats/WC-10%20Chief%20Scientist.png)
