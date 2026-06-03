@@ -1,3 +1,13 @@
+---
+title: flower-incident
+description: 
+published: true
+date: 2026-06-03T03:37:09.105Z
+tags: 
+editor: markdown
+dateCreated: 2026-06-03T03:28:37.462Z
+---
+
 # WC-13 The Flower Incident
 
 ![The Subject](/images/wombats/WC-13%20The%20Flower%20Incident.png)
