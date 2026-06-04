@@ -12,5 +12,7 @@ jobs:
     steps:
       - name: Pull latest Stankopedia
         run: |
+          export HOME=/home/githubrunner
+          git config --global --add safe.directory /mnt/user/appdata/bigdumbidiot-stankopedia
           cd /mnt/user/appdata/bigdumbidiot-stankopedia
           git pull origin main
