@@ -38,10 +38,14 @@ META
 
   mkdir -p "$page_dir" "$image_dir"
 
-  find "$dir" -maxdepth 1 -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.webp" \) -print0 \
-    | while IFS= read -r -d '' img; do
-        cp -u "$img" "$image_dir/"
-      done
+  find "$dir" -maxdepth 1 -type f \( \
+    -iname "*.png" -o \
+    -iname "*.jpg" -o \
+    -iname "*.jpeg" -o \
+    -iname "*.webp" \
+  \) -print0 | while IFS= read -r -d '' img; do
+    cp -u "$img" "$image_dir/"
+  done
 
   page="$page_dir/index.md"
 
@@ -60,7 +64,12 @@ This Wombat Division case file was generated automatically from the stankdrop ev
 
 PAGE
 
-  find "$image_dir" -maxdepth 1 -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.webp" \) | sort | while read -r img; do
+  find "$image_dir" -maxdepth 1 -type f \( \
+    -iname "*.png" -o \
+    -iname "*.jpg" -o \
+    -iname "*.jpeg" -o \
+    -iname "*.webp" \
+  \) | sort | while read -r img; do
     file="$(basename "$img")"
     label="$(echo "$file" | sed 's/\.[^.]*$//' | sed 's/_/ /g')"
 
@@ -75,11 +84,12 @@ ENTRY
   echo "Generated: $page"
 done
 
-git add pages/wombats/incidents images/wombats /mnt/user/stankdrop/WC*/metadata.yml 2>/dev/null || true
+git add pages/wombats images/wombats scripts
 
 if git diff --cached --quiet; then
   echo "No new stank to commit."
 else
-  git commit -m "Generate Wombat Division incident pages"
-  echo "Committed stank. Run git push when ready."
+  git commit -m "Update Wombat Division incident archive"
+  git push origin main
+  echo "Committed and pushed fresh stank."
 fi
