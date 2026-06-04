@@ -2,12 +2,13 @@
 set -euo pipefail
 
 DROP="/mnt/user/stankdrop/pages"
+PUBLISHED="/mnt/user/stankdrop/published"
 REPO="/mnt/user/appdata/bigdumbidiot-stankopedia"
 
 PAGES="$REPO/pages"
 IMAGES="$REPO/images"
 
-mkdir -p "$DROP" "$PAGES" "$IMAGES"
+mkdir -p "$DROP" "$PUBLISHED" "$PAGES" "$IMAGES"
 
 cd "$REPO"
 
@@ -21,22 +22,7 @@ find "$DROP" -mindepth 1 -type f -name "article.md" | sort | while read -r artic
 
   mkdir -p "$page_dir" "$image_dest"
 
-  meta="$src_dir/metadata.yml"
-
-  if [ -f "$meta" ]; then
-    title="$(grep '^title:' "$meta" | cut -d':' -f2- | sed 's/^ //')"
-    classification="$(grep '^classification:' "$meta" | cut -d':' -f2- | sed 's/^ //')"
-    threat="$(grep '^threat:' "$meta" | cut -d':' -f2- | sed 's/^ //')"
-    status="$(grep '^status:' "$meta" | cut -d':' -f2- | sed 's/^ //')"
-  else
-    title="$(basename "$src_dir" | sed 's/-/ /g' | sed 's/_/ /g')"
-    classification=""
-    threat=""
-    status=""
-  fi
-
   page="$page_dir/index.md"
-
   cp "$article" "$page"
 
   {
@@ -48,23 +34,15 @@ find "$DROP" -mindepth 1 -type f -name "article.md" | sort | while read -r artic
   } >> "$page"
 
   if [ -d "$image_src" ]; then
-    find "$image_src" -maxdepth 1 -type f \( \
-      -iname "*.png" -o \
-      -iname "*.jpg" -o \
-      -iname "*.jpeg" -o \
-      -iname "*.webp" \
-    \) -print0 | while IFS= read -r -d '' img; do
+    find "$image_src" -maxdepth 1 -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.webp" \) -print0 |
+    while IFS= read -r -d '' img; do
       cp -u "$img" "$image_dest/"
     done
   fi
 
   if [ -d "$image_dest" ]; then
-    find "$image_dest" -maxdepth 1 -type f \( \
-      -iname "*.png" -o \
-      -iname "*.jpg" -o \
-      -iname "*.jpeg" -o \
-      -iname "*.webp" \
-    \) | sort | while read -r img; do
+    find "$image_dest" -maxdepth 1 -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.webp" \) | sort |
+    while read -r img; do
       file="$(basename "$img")"
       label="$(echo "$file" | sed 's/\.[^.]*$//' | sed 's/_/ /g')"
 
@@ -77,6 +55,7 @@ ENTRY
     done
   fi
 
+  touch "$src_dir/.processed"
   echo "Generated page: $page"
 done
 
@@ -88,4 +67,19 @@ else
   git commit -m "Update generated Stankopedia pages"
   git push origin main
   echo "Committed and pushed generated Stankopedia pages."
+
+  find "$DROP" -type f -name ".processed" | while read -r marker; do
+    src_dir="$(dirname "$marker")"
+    rel="${src_dir#$DROP/}"
+    dest="$PUBLISHED/$rel"
+
+    mkdir -p "$(dirname "$dest")"
+
+    if [ -e "$dest" ]; then
+      dest="${dest}-$(date +%Y%m%d-%H%M%S)"
+    fi
+
+    mv "$src_dir" "$dest"
+    echo "Archived: $rel"
+  done
 fi
