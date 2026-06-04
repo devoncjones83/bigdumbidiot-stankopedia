@@ -11,11 +11,6 @@ jobs:
 
     steps:
       - name: Pull latest Stankopedia
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.UNRAID_HOST }}
-          username: ${{ secrets.UNRAID_USER }}
-          key: ${{ secrets.UNRAID_SSH_KEY }}
-          script: |
-            cd /mnt/user/appdata/bigdumbidiot-stankopedia
-            git pull origin main
+        run: |
+          cd /mnt/user/appdata/bigdumbidiot-stankopedia
+          git pull origin main
