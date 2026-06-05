@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: 
 published: true
-date: 2026-06-02T01:27:50.454Z
+date: 2026-06-05T01:31:19.576Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-01T03:40:48.731Z
@@ -14,7 +14,7 @@ dateCreated: 2026-06-01T03:40:48.731Z
 
 Stankopedia is the world's leading repository of certified nonsense, advanced funk research, snack-based policy, questionable science, and government documents that absolutely should not exist.
 
-> **Official Notice:** Freshness is temporary. Stank is forever.
+> **Official Notice:** Freshness is temporary. STANK IS FOREVER.
 
 ---
 
