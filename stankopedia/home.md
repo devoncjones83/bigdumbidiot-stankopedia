@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: 
 published: true
-date: 2026-06-06T23:20:58.922Z
+date: 2026-06-06T23:45:57.340Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-01T03:40:48.731Z
@@ -155,7 +155,8 @@ box-shadow:0 0 12px rgba(126,232,90,.20);
 </div>
 
 </div>
-___
+
+
 ## 🏢 Agencies and Organizations
 
 Institutions dedicated to protecting civilization from excessive cleanliness.
