@@ -2,81 +2,13 @@
 title: Stankopedia Home
 description: 
 published: true
-date: 2026-06-06T23:16:40.085Z
+date: 2026-06-06T23:20:01.103Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-01T03:40:48.731Z
 ---
 
-<div style="
-background:#111814;
-border:2px solid #7ee85a;
-padding:20px;
-margin:20px 0;
-box-shadow:0 0 20px rgba(126,232,90,.20);
-">
-
-<div style="
-display:flex;
-align-items:center;
-gap:20px;
-flex-wrap:wrap;
-">
-
-<img
-src="/mnt/user/appdata/bigdumbidiot-stankopedia/images/wombats/wombat_nav_logo_1780686441137.png"
-style="
-width:220px;
-max-width:100%;
-border:2px solid #7ee85a;
-box-shadow:0 0 15px rgba(126,232,90,.25);
-"
->
-
-<div style="flex:1;min-width:300px;">
-
-<h1 style="
-margin:0;
-color:#8cff5a;
-text-shadow:0 0 10px rgba(140,255,90,.35);
-">
-☢️ WOMBAT CONTAINMENT DIVISION
-</h1>
-
-<p style="font-size:16px;">
-Access specimen dossiers, incident archives, Directorate reports,
-journal records, and containment documentation.
-</p>
-
-<p>
-<strong>Directorate Status:</strong> CONCERNED<br>
-<strong>Active Specimens:</strong> 13<br>
-<strong>Containment Integrity:</strong> QUESTIONABLE
-</p>
-
-<p style="margin-top:20px;">
-<a
-href="/stankopedia/wombats"
-style="
-display:inline-block;
-padding:12px 24px;
-background:#1f331f;
-border:2px solid #7ee85a;
-color:#8cff5a;
-font-size:22px;
-font-weight:bold;
-text-decoration:none;
-box-shadow:0 0 12px rgba(126,232,90,.20);
-">
-➡ ENTER CONTAINMENT DATABASE ⬅
-</a>
-</p>
-
-</div>
-
-</div>
-
-</div># 🦨 Welcome to Stankopedia
+# 🦨 Welcome to Stankopedia
 
 **The official knowledge base of Big Dumb Idiot Labs.**
 
@@ -161,32 +93,66 @@ The most respected academic discipline.
 
 ---
 <div style="
+background:#111814;
+border:2px solid #7ee85a;
 padding:20px;
-border:3px solid #7ee85a;
-background:#1a211c;
-text-align:center;
 margin:20px 0;
-box-shadow:0 0 15px rgba(126,232,90,.25);
+box-shadow:0 0 20px rgba(126,232,90,.20);
 ">
 
-<h2>☢️ WOMBAT CONTAINMENT DIVISION 
-☢️</h2>
+<div style="
+display:flex;
+align-items:center;
+gap:20px;
+flex-wrap:wrap;
+">
 
-<p>
-Access specimen dossiers, incident archives, and Directorate records.
+
+<img src="https://bigdumbidiot.org/images/wombats/wombat_nav_logo_1780686441137.png">
+
+
+<div style="flex:1;min-width:300px;">
+
+<h1 style="
+margin:0;
+color:#8cff5a;
+text-shadow:0 0 10px rgba(140,255,90,.35);
+">
+☢️ WOMBAT CONTAINMENT DIVISION
+</h1>
+
+<p style="font-size:16px;">
+Access specimen dossiers, incident archives, Directorate reports,
+journal records, and containment documentation.
 </p>
 
 <p>
-<a href="/stankopedia/wombats"
+<strong>Directorate Status:</strong> CONCERNED<br>
+<strong>Active Specimens:</strong> 13<br>
+<strong>Containment Integrity:</strong> QUESTIONABLE
+</p>
+
+<p style="margin-top:20px;">
+<a
+href="/stankopedia/wombats"
 style="
-font-size:28px;
-font-weight:bold;
+display:inline-block;
+padding:12px 24px;
+background:#1f331f;
+border:2px solid #7ee85a;
 color:#8cff5a;
+font-size:22px;
+font-weight:bold;
 text-decoration:none;
+box-shadow:0 0 12px rgba(126,232,90,.20);
 ">
-➡️ ENTER CONTAINMENT DATABASE ⬅️
+➡ ENTER CONTAINMENT DATABASE ⬅
 </a>
 </p>
+
+</div>
+
+</div>
 
 </div>
 ___
