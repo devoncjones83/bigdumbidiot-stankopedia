@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: 
 published: true
-date: 2026-06-05T01:31:19.576Z
+date: 2026-06-06T22:38:47.565Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-01T03:40:48.731Z
@@ -92,7 +92,12 @@ The most respected academic discipline.
 * [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
 
 ---
+## 🐾 Wombat Containment Division
 
+> Access certified wombat dossiers, containment records, Directorate notes, and incident reports.
+
+[ENTER WOMBAT DIVISION](/wombats)
+___
 ## 🏢 Agencies and Organizations
 
 Institutions dedicated to protecting civilization from excessive cleanliness.
