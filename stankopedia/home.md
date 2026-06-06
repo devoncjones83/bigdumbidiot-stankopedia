@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: 
 published: true
-date: 2026-06-06T22:38:47.565Z
+date: 2026-06-06T22:51:25.133Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-01T03:40:48.731Z
@@ -96,7 +96,7 @@ The most respected academic discipline.
 
 > Access certified wombat dossiers, containment records, Directorate notes, and incident reports.
 
-[ENTER WOMBAT DIVISION](/wombats)
+[ENTER WOMBAT DIVISION](/stankopedia/wombats)
 ___
 ## 🏢 Agencies and Organizations
 
