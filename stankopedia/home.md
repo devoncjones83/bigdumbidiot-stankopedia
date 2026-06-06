@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: 
 published: true
-date: 2026-06-06T23:20:01.103Z
+date: 2026-06-06T23:20:58.922Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-01T03:40:48.731Z
@@ -129,7 +129,7 @@ journal records, and containment documentation.
 <p>
 <strong>Directorate Status:</strong> CONCERNED<br>
 <strong>Active Specimens:</strong> 13<br>
-<strong>Containment Integrity:</strong> QUESTIONABLE
+<strong>Containment Integrity:</strong> DECLINING
 </p>
 
 <p style="margin-top:20px;">
