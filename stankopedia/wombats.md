@@ -127,7 +127,7 @@ margin-top:14px;
 </a>
 
 <a href="/pages/wombats/incidents/wc09/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
-<img src="/images/wombats/specimens/wc09.png" alt="WC-09" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<img src="/images/wombats/specimens/wc09_escaped.png" alt="WC-09" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
 <strong>WC-09</strong><br>
 <span style="color:#d7dfd7;">Status: MONITORED</span><br>
 <span style="color:#d7dfd7;">Incident File</span>
@@ -148,7 +148,7 @@ margin-top:14px;
 </a>
 
 <a href="/pages/wombats/incidents/wc12/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
-<img src="/images/wombats/specimens/wc12.png" alt="WC-12 — The Visitor" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<img src="/images/wombats/specimens/wc12_redacted.png" alt="WC-12 — The Visitor" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
 <strong>WC-12 — The Visitor</strong><br>
 <span style="color:#d7dfd7;">Threat Level: ████████</span><br>
 <span style="color:#d7dfd7;">Directorate Status: UNEXPLAINED</span>
