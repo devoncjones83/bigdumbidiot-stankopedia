@@ -65,25 +65,101 @@ margin-top:14px;
 
 <div style="
 display:grid;
-grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
 gap:14px;
 margin-top:14px;
 ">
 
-<a href="/pages/wombats/incidents/wc04/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-04 — The Night Manager</strong><br><span style="color:#d7dfd7;">Directorate Status: TRY-HARD</span><br><span style="color:#d7dfd7;">Threat Level: AFTER HOURS</span></a>
-<a href="/pages/wombats/incidents/wc05/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-05 — Chief Executive Wombat</strong><br><span style="color:#d7dfd7;">Threat Level: DESTABILIZING</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc10/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-10 — Chief Scientist</strong><br><span style="color:#d7dfd7;">Threat Level: UNSTABLE</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc12/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-12 — The Visitor</strong><br><span style="color:#d7dfd7;">Threat Level: ████████</span><br><span style="color:#d7dfd7;">Directorate Status: UNEXPLAINED</span></a>
+<a href="/pages/wombats/incidents/wc01/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc01.png" alt="WC-01" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-01</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
 
-<a href="/pages/wombats/incidents/wc01/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-01</strong><br><span style="color:#d7dfd7;">Status: MONITORED</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc02/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-02</strong><br><span style="color:#d7dfd7;">Status: UNCOOPERATIVE</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc03/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-03</strong><br><span style="color:#d7dfd7;">Status: OBSERVED</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc06/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-06 — Radio Host</strong><br><span style="color:#d7dfd7;">Threat Level: BROADCAST HAZARD</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc07/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-07 — Data Dumpster</strong><br><span style="color:#d7dfd7;">Threat Level: ARCHIVAL</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc08/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-08 — The Summoner</strong><br><span style="color:#d7dfd7;">Threat Level: RECURSIVE</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc09/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-09 — Night Shift</strong><br><span style="color:#d7dfd7;">Threat Level: UNACCOUNTED</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc11/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-11 — Emergency Broadcast Authority</strong><br><span style="color:#d7dfd7;">Threat Level: MANDATORY</span><br><span style="color:#d7dfd7;">Incident File</span></a>
-<a href="/pages/wombats/incidents/wc13/index" style="display:block;padding:14px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;"><strong>WC-13</strong><br><span style="color:#d7dfd7;">Status: RECENTLY CATALOGED</span><br><span style="color:#d7dfd7;">Incident File</span></a>
+<a href="/pages/wombats/incidents/wc02/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc02.png" alt="WC-02" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-02</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc03/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc03.png" alt="WC-03" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-03</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc04/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc04.png" alt="WC-04 — The Night Manager" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-04 — The Night Manager</strong><br>
+<span style="color:#d7dfd7;">Directorate Status: TRY-HARD</span><br>
+<span style="color:#d7dfd7;">Threat Level: AFTER HOURS</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc05/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc05.png" alt="WC-05 — Chief Executive Wombat" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-05 — Chief Executive Wombat</strong><br>
+<span style="color:#d7dfd7;">Threat Level: DESTABILIZING</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc06/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc06.png" alt="WC-06" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-06</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc07/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc07.png" alt="WC-07" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-07</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc08/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc08.png" alt="WC-08" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-08</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc09/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc09.png" alt="WC-09" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-09</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc10/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc10.png" alt="WC-10 — Chief Scientist" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-10 — Chief Scientist</strong><br>
+<span style="color:#d7dfd7;">Threat Level: UNSTABLE</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc11/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc11.png" alt="WC-11" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-11</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc12/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc12.png" alt="WC-12 — The Visitor" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-12 — The Visitor</strong><br>
+<span style="color:#d7dfd7;">Threat Level: ████████</span><br>
+<span style="color:#d7dfd7;">Directorate Status: UNEXPLAINED</span>
+</a>
+
+<a href="/pages/wombats/incidents/wc13/index" style="display:block;padding:12px;border:1px solid rgba(126,232,90,.35);background:#151d17;text-decoration:none;color:#8cff5a;">
+<img src="/images/wombats/specimens/wc13.png" alt="WC-13" style="width:100%;height:150px;object-fit:cover;border:1px solid rgba(126,232,90,.25);margin-bottom:10px;background:#050805;">
+<strong>WC-13</strong><br>
+<span style="color:#d7dfd7;">Status: MONITORED</span><br>
+<span style="color:#d7dfd7;">Incident File</span>
+</a>
 
 </div>
 
