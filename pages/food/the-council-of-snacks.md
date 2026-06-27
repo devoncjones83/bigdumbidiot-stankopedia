@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - food
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Council of Snacks
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Smart Refrigerators Cannot Be Trusted](/stankopedia/technology/smart-refrigerators-cannot-be-trusted)
-- [The Secret History of Shampoo](/stankopedia/government/the-secret-history-of-shampoo)
-- [The Great Laundry Beyond](/stankopedia/lore/the-great-laundry-beyond)
-- [Captain Dumpsterfire](/stankopedia/people/captain-dumpsterfire)
-- [Why Hotels Give Away Tiny Soaps](/stankopedia/government/why-hotels-give-away-tiny-soaps)
-- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Smart Refrigerators Cannot Be Trusted](/technology/smart-refrigerators-cannot-be-trusted)
+- [The Secret History of Shampoo](/government/the-secret-history-of-shampoo)
+- [The Great Laundry Beyond](/lore/the-great-laundry-beyond)
+- [Captain Dumpsterfire](/people/captain-dumpsterfire)
+- [Why Hotels Give Away Tiny Soaps](/government/why-hotels-give-away-tiny-soaps)
+- [The Path of Funk](/doctrine/the-path-of-funk)
 
 ## Fake References
 

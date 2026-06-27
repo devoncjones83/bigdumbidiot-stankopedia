@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - agencies
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Strategic Cheese Reserve
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Funk Nexus](/stankopedia/lore/the-funk-nexus)
-- [The Forbidden Dryer Sheet](/stankopedia/lore/the-forbidden-dryer-sheet)
-- [The Future of Funk](/stankopedia/technology/the-future-of-funk)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
-- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
-- [Applied Dumpster Dynamics](/stankopedia/science/applied-dumpster-dynamics)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Funk Nexus](/lore/the-funk-nexus)
+- [The Forbidden Dryer Sheet](/lore/the-forbidden-dryer-sheet)
+- [The Future of Funk](/technology/the-future-of-funk)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
+- [Applied Dumpster Dynamics](/science/applied-dumpster-dynamics)
 
 ## Fake References
 

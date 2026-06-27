@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - people
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Baron von Stank
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Smart Refrigerators Cannot Be Trusted](/stankopedia/technology/smart-refrigerators-cannot-be-trusted)
-- [Stank Ethics and Moral Odors](/stankopedia/doctrine/stank-ethics-and-moral-odors)
-- [Freshness Containment Authority](/stankopedia/agencies/freshness-containment-authority)
-- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
-- [Basement Humidity Studies](/stankopedia/science/basement-humidity-studies)
-- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Smart Refrigerators Cannot Be Trusted](/technology/smart-refrigerators-cannot-be-trusted)
+- [Stank Ethics and Moral Odors](/doctrine/stank-ethics-and-moral-odors)
+- [Freshness Containment Authority](/agencies/freshness-containment-authority)
+- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
+- [Basement Humidity Studies](/science/basement-humidity-studies)
+- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
 
 ## Fake References
 

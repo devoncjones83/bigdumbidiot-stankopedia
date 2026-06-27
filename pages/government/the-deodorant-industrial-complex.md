@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - government
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Deodorant Industrial Complex
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
-- [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
-- [Candy Consumption Best Practices](/stankopedia/standards/candy-consumption-best-practices)
-- [The Soap Cartel](/stankopedia/government/the-soap-cartel)
-- [Cryptocurrency and Dumpster Economics](/stankopedia/technology/cryptocurrency-and-dumpster-economics)
-- [Freshness Heresies](/stankopedia/doctrine/freshness-heresies)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Ancient Donut Traditions](/food/ancient-donut-traditions)
+- [The Great Freshening Incident of 1987](/history/the-great-freshening-incident-of-1987)
+- [Candy Consumption Best Practices](/standards/candy-consumption-best-practices)
+- [The Soap Cartel](/government/the-soap-cartel)
+- [Cryptocurrency and Dumpster Economics](/technology/cryptocurrency-and-dumpster-economics)
+- [Freshness Heresies](/doctrine/freshness-heresies)
 
 ## Fake References
 

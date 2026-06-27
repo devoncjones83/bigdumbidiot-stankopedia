@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - agencies
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Freshness Containment Authority
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Odoronomy](/stankopedia/science/odoronomy)
-- [The Stank Doctrine](/stankopedia/doctrine/the-stank-doctrine)
-- [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
-- [Emergency Cake Procedures](/stankopedia/food/emergency-cake-procedures)
-- [The Sacred Sock Age](/stankopedia/history/the-sacred-sock-age)
-- [Captain Dumpsterfire](/stankopedia/people/captain-dumpsterfire)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Odoronomy](/science/odoronomy)
+- [The Stank Doctrine](/doctrine/the-stank-doctrine)
+- [The Great Freshening Incident of 1987](/history/the-great-freshening-incident-of-1987)
+- [Emergency Cake Procedures](/food/emergency-cake-procedures)
+- [The Sacred Sock Age](/history/the-sacred-sock-age)
+- [Captain Dumpsterfire](/people/captain-dumpsterfire)
 
 ## Fake References
 

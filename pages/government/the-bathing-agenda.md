@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - government
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Bathing Agenda
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The War of Mildly Damp Towels](/stankopedia/history/the-war-of-mildly-damp-towels)
-- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
-- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
-- [Candy Consumption Best Practices](/stankopedia/standards/candy-consumption-best-practices)
-- [The Musty Prophet](/stankopedia/people/the-musty-prophet)
-- [Sister Mildew](/stankopedia/people/sister-mildew)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The War of Mildly Damp Towels](/history/the-war-of-mildly-damp-towels)
+- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
+- [The Physics of Funk](/science/the-physics-of-funk)
+- [Candy Consumption Best Practices](/standards/candy-consumption-best-practices)
+- [The Musty Prophet](/people/the-musty-prophet)
+- [Sister Mildew](/people/sister-mildew)
 
 ## Fake References
 

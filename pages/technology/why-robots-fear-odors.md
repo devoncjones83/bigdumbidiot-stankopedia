@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - technology
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Why Robots Fear Odors
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Stank in the Digital Age](/stankopedia/technology/stank-in-the-digital-age)
-- [Smart Refrigerators Cannot Be Trusted](/stankopedia/technology/smart-refrigerators-cannot-be-trusted)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
-- [The Internet of Stank](/stankopedia/technology/the-internet-of-stank)
-- [The Sacred Sock Age](/stankopedia/history/the-sacred-sock-age)
-- [The Prophecy of Funk](/stankopedia/lore/the-prophecy-of-funk)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Stank in the Digital Age](/technology/stank-in-the-digital-age)
+- [Smart Refrigerators Cannot Be Trusted](/technology/smart-refrigerators-cannot-be-trusted)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
+- [The Internet of Stank](/technology/the-internet-of-stank)
+- [The Sacred Sock Age](/history/the-sacred-sock-age)
+- [The Prophecy of Funk](/lore/the-prophecy-of-funk)
 
 ## Fake References
 

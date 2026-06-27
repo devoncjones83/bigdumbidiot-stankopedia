@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - lore
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Forbidden Dryer Sheet
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Great Dryer Sheet Uprising](/stankopedia/history/the-great-dryer-sheet-uprising)
-- [The Beauty of Stank](/stankopedia/doctrine/the-beauty-of-stank)
-- [Stank Ethics and Moral Odors](/stankopedia/doctrine/stank-ethics-and-moral-odors)
-- [The Musty Prophet](/stankopedia/people/the-musty-prophet)
-- [Candy Consumption Best Practices](/stankopedia/standards/candy-consumption-best-practices)
-- [Measuring Stank Density](/stankopedia/science/measuring-stank-density)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Great Dryer Sheet Uprising](/history/the-great-dryer-sheet-uprising)
+- [The Beauty of Stank](/doctrine/the-beauty-of-stank)
+- [Stank Ethics and Moral Odors](/doctrine/stank-ethics-and-moral-odors)
+- [The Musty Prophet](/people/the-musty-prophet)
+- [Candy Consumption Best Practices](/standards/candy-consumption-best-practices)
+- [Measuring Stank Density](/science/measuring-stank-density)
 
 ## Fake References
 

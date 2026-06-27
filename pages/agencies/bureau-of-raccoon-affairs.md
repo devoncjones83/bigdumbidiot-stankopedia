@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - agencies
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Bureau of Raccoon Affairs
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
-- [Applied Dumpster Dynamics](/stankopedia/science/applied-dumpster-dynamics)
-- [The Theory of Recursive Odors](/stankopedia/science/the-theory-of-recursive-odors)
-- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
-- [The Chamber of Unidentified Smells](/stankopedia/lore/the-chamber-of-unidentified-smells)
-- [Basement Humidity Studies](/stankopedia/science/basement-humidity-studies)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Great Freshening Incident of 1987](/history/the-great-freshening-incident-of-1987)
+- [Applied Dumpster Dynamics](/science/applied-dumpster-dynamics)
+- [The Theory of Recursive Odors](/science/the-theory-of-recursive-odors)
+- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
+- [The Chamber of Unidentified Smells](/lore/the-chamber-of-unidentified-smells)
+- [Basement Humidity Studies](/science/basement-humidity-studies)
 
 ## Fake References
 

@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - people
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Musty Prophet
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
-- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
-- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
-- [Freshness Incident Response Procedures](/stankopedia/standards/freshness-incident-response-procedures)
-- [The Prophecy of Funk](/stankopedia/lore/the-prophecy-of-funk)
-- [Social Media and Stank](/stankopedia/technology/social-media-and-stank)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
+- [The First Dumpster Council](/history/the-first-dumpster-council)
+- [Ancient Donut Traditions](/food/ancient-donut-traditions)
+- [Freshness Incident Response Procedures](/standards/freshness-incident-response-procedures)
+- [The Prophecy of Funk](/lore/the-prophecy-of-funk)
+- [Social Media and Stank](/technology/social-media-and-stank)
 
 ## Fake References
 

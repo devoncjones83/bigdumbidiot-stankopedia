@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - agencies
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Agency for Snack Excellence
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Certified Funk Technician Handbook](/stankopedia/standards/certified-funk-technician-handbook)
-- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
-- [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
-- [The Stank Doctrine](/stankopedia/doctrine/the-stank-doctrine)
-- [Dumpster Safety Requirements](/stankopedia/standards/dumpster-safety-requirements)
-- [Air Freshener Threat Matrix](/stankopedia/standards/air-freshener-threat-matrix)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Certified Funk Technician Handbook](/standards/certified-funk-technician-handbook)
+- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
+- [Quantum Stank Entanglement](/science/quantum-stank-entanglement)
+- [The Stank Doctrine](/doctrine/the-stank-doctrine)
+- [Dumpster Safety Requirements](/standards/dumpster-safety-requirements)
+- [Air Freshener Threat Matrix](/standards/air-freshener-threat-matrix)
 
 ## Fake References
 

@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - technology
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Internet of Stank
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Future of Funk](/stankopedia/technology/the-future-of-funk)
-- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
-- [Millifunkle Theory](/stankopedia/science/millifunkle-theory)
-- [Government Odor Suppression Programs](/stankopedia/government/government-odor-suppression-programs)
-- [Advanced Must Calibration Guide](/stankopedia/standards/advanced-must-calibration-guide)
-- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Future of Funk](/technology/the-future-of-funk)
+- [Ancient Donut Traditions](/food/ancient-donut-traditions)
+- [Millifunkle Theory](/science/millifunkle-theory)
+- [Government Odor Suppression Programs](/government/government-odor-suppression-programs)
+- [Advanced Must Calibration Guide](/standards/advanced-must-calibration-guide)
+- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
 
 ## Fake References
 

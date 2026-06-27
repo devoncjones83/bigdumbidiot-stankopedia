@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - standards
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Candy Consumption Best Practices
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
-- [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
-- [Odoronomy](/stankopedia/science/odoronomy)
-- [Department of Candy Security](/stankopedia/agencies/department-of-candy-security)
-- [Stank Particle Acceleration](/stankopedia/science/stank-particle-acceleration)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
+- [The Rise of Grimehold](/history/the-rise-of-grimehold)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
+- [Odoronomy](/science/odoronomy)
+- [Department of Candy Security](/agencies/department-of-candy-security)
+- [Stank Particle Acceleration](/science/stank-particle-acceleration)
 
 ## Fake References
 

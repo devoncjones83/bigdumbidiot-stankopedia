@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - food
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Emergency Cake Procedures
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Funkodynamics](/stankopedia/science/funkodynamics)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
-- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
-- [Emergency Nacho Containment](/stankopedia/standards/emergency-nacho-containment)
-- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
-- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Funkodynamics](/science/funkodynamics)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
+- [Emergency Nacho Containment](/standards/emergency-nacho-containment)
+- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
+- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
 
 ## Fake References
 

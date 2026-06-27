@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - standards
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Freshness Incident Response Procedures
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Basement Humidity Studies](/stankopedia/science/basement-humidity-studies)
-- [Why Robots Fear Odors](/stankopedia/technology/why-robots-fear-odors)
-- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
-- [The Ancient Sock Archives](/stankopedia/lore/the-ancient-sock-archives)
-- [Hidden Messages in Air Freshener Commercials](/stankopedia/government/hidden-messages-in-air-freshener-commercials)
-- [Captain Dumpsterfire](/stankopedia/people/captain-dumpsterfire)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Basement Humidity Studies](/science/basement-humidity-studies)
+- [Why Robots Fear Odors](/technology/why-robots-fear-odors)
+- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
+- [The Ancient Sock Archives](/lore/the-ancient-sock-archives)
+- [Hidden Messages in Air Freshener Commercials](/government/hidden-messages-in-air-freshener-commercials)
+- [Captain Dumpsterfire](/people/captain-dumpsterfire)
 
 ## Fake References
 

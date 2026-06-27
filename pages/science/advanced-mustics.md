@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - science
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Advanced Mustics
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Air Freshener Threat Matrix](/stankopedia/standards/air-freshener-threat-matrix)
-- [The Febreeze Catastrophe](/stankopedia/history/the-febreeze-catastrophe)
-- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
-- [The War of Mildly Damp Towels](/stankopedia/history/the-war-of-mildly-damp-towels)
-- [The Chamber of Unidentified Smells](/stankopedia/lore/the-chamber-of-unidentified-smells)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Air Freshener Threat Matrix](/standards/air-freshener-threat-matrix)
+- [The Febreeze Catastrophe](/history/the-febreeze-catastrophe)
+- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
+- [The War of Mildly Damp Towels](/history/the-war-of-mildly-damp-towels)
+- [The Chamber of Unidentified Smells](/lore/the-chamber-of-unidentified-smells)
 
 ## Fake References
 

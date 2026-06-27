@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - doctrine
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Stank Doctrine
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
-- [Social Media and Stank](/stankopedia/technology/social-media-and-stank)
-- [The Theory of Recursive Odors](/stankopedia/science/the-theory-of-recursive-odors)
-- [Doctor Mustington](/stankopedia/people/doctor-mustington)
-- [The Raccoon Reformation](/stankopedia/history/the-raccoon-reformation)
-- [The Future of Funk](/stankopedia/technology/the-future-of-funk)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
+- [Social Media and Stank](/technology/social-media-and-stank)
+- [The Theory of Recursive Odors](/science/the-theory-of-recursive-odors)
+- [Doctor Mustington](/people/doctor-mustington)
+- [The Raccoon Reformation](/history/the-raccoon-reformation)
+- [The Future of Funk](/technology/the-future-of-funk)
 
 ## Fake References
 

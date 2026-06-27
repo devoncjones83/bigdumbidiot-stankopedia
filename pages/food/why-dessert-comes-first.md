@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - food
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Why Dessert Comes First
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Freshness Containment Authority](/stankopedia/agencies/freshness-containment-authority)
-- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
-- [Stank Classification Standard S-9000](/stankopedia/standards/stank-classification-standard-s-9000)
-- [The Sacred Sock Age](/stankopedia/history/the-sacred-sock-age)
-- [Office of Questionable Science](/stankopedia/agencies/office-of-questionable-science)
-- [The Ancient Sock Archives](/stankopedia/lore/the-ancient-sock-archives)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Freshness Containment Authority](/agencies/freshness-containment-authority)
+- [Operation Lemon Breeze](/history/operation-lemon-breeze)
+- [Stank Classification Standard S-9000](/standards/stank-classification-standard-s-9000)
+- [The Sacred Sock Age](/history/the-sacred-sock-age)
+- [Office of Questionable Science](/agencies/office-of-questionable-science)
+- [The Ancient Sock Archives](/lore/the-ancient-sock-archives)
 
 ## Fake References
 

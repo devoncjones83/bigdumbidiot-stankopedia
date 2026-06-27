@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - doctrine
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Purity of Must
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
-- [Emergency Nacho Containment](/stankopedia/standards/emergency-nacho-containment)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
-- [The Sacred Hoodie](/stankopedia/lore/the-sacred-hoodie)
-- [Funkodynamics](/stankopedia/science/funkodynamics)
-- [Measuring Stank Density](/stankopedia/science/measuring-stank-density)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Quantum Stank Entanglement](/science/quantum-stank-entanglement)
+- [Emergency Nacho Containment](/standards/emergency-nacho-containment)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [The Sacred Hoodie](/lore/the-sacred-hoodie)
+- [Funkodynamics](/science/funkodynamics)
+- [Measuring Stank Density](/science/measuring-stank-density)
 
 ## Fake References
 

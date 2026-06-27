@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - people
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Saint Moldric the Aromatic
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Baron von Stank](/stankopedia/people/baron-von-stank)
-- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
-- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
-- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
-- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
-- [The Sacred Hoodie](/stankopedia/lore/the-sacred-hoodie)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Baron von Stank](/people/baron-von-stank)
+- [The First Dumpster Council](/history/the-first-dumpster-council)
+- [The Sacred Burrito](/food/the-sacred-burrito)
+- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
+- [Ancient Donut Traditions](/food/ancient-donut-traditions)
+- [The Sacred Hoodie](/lore/the-sacred-hoodie)
 
 ## Fake References
 

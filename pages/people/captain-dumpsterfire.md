@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - people
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Captain Dumpsterfire
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Social Media and Stank](/stankopedia/technology/social-media-and-stank)
-- [Odoronomy](/stankopedia/science/odoronomy)
-- [Millifunkle Theory](/stankopedia/science/millifunkle-theory)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
-- [Department of Candy Security](/stankopedia/agencies/department-of-candy-security)
-- [Ministry of Mild Confusion](/stankopedia/agencies/ministry-of-mild-confusion)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Social Media and Stank](/technology/social-media-and-stank)
+- [Odoronomy](/science/odoronomy)
+- [Millifunkle Theory](/science/millifunkle-theory)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [Department of Candy Security](/agencies/department-of-candy-security)
+- [Ministry of Mild Confusion](/agencies/ministry-of-mild-confusion)
 
 ## Fake References
 

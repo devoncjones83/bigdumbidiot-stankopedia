@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - government
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Hidden Messages in Air Freshener Commercials
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Sacred Sock Age](/stankopedia/history/the-sacred-sock-age)
-- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
-- [Sister Mildew](/stankopedia/people/sister-mildew)
-- [Stank Classification Standard S-9000](/stankopedia/standards/stank-classification-standard-s-9000)
-- [Artificial Intelligence and Mustiness](/stankopedia/technology/artificial-intelligence-and-mustiness)
-- [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Sacred Sock Age](/history/the-sacred-sock-age)
+- [Controlled Funk Reactions](/science/controlled-funk-reactions)
+- [Sister Mildew](/people/sister-mildew)
+- [Stank Classification Standard S-9000](/standards/stank-classification-standard-s-9000)
+- [Artificial Intelligence and Mustiness](/technology/artificial-intelligence-and-mustiness)
+- [The Rise of Grimehold](/history/the-rise-of-grimehold)
 
 ## Fake References
 

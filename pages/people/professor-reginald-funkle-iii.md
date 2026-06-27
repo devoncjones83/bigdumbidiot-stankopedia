@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - people
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Professor Reginald Funkle III
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
-- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
-- [The Internet of Stank](/stankopedia/technology/the-internet-of-stank)
-- [Why French Fries Improve Wisdom](/stankopedia/food/why-french-fries-improve-wisdom)
-- [The Battle of Funk Ridge](/stankopedia/history/the-battle-of-funk-ridge)
-- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
+- [The Path of Funk](/doctrine/the-path-of-funk)
+- [The Internet of Stank](/technology/the-internet-of-stank)
+- [Why French Fries Improve Wisdom](/food/why-french-fries-improve-wisdom)
+- [The Battle of Funk Ridge](/history/the-battle-of-funk-ridge)
+- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
 
 ## Fake References
 

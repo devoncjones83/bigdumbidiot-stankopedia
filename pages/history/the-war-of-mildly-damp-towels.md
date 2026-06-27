@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - history
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The War of Mildly Damp Towels
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Stank Classification Standard S-9000](/stankopedia/standards/stank-classification-standard-s-9000)
-- [Earl of Funkshire](/stankopedia/people/earl-of-funkshire)
-- [Air Freshener Threat Matrix](/stankopedia/standards/air-freshener-threat-matrix)
-- [The Seventh Dumpster](/stankopedia/lore/the-seventh-dumpster)
-- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
-- [Department of Candy Security](/stankopedia/agencies/department-of-candy-security)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Stank Classification Standard S-9000](/standards/stank-classification-standard-s-9000)
+- [Earl of Funkshire](/people/earl-of-funkshire)
+- [Air Freshener Threat Matrix](/standards/air-freshener-threat-matrix)
+- [The Seventh Dumpster](/lore/the-seventh-dumpster)
+- [Controlled Funk Reactions](/science/controlled-funk-reactions)
+- [Department of Candy Security](/agencies/department-of-candy-security)
 
 ## Fake References
 

@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - science
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Why Fresh Laundry Is Suspicious
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Doctor Mustington](/stankopedia/people/doctor-mustington)
-- [Advanced Cheese Studies](/stankopedia/food/advanced-cheese-studies)
-- [The Fall of New Freshland](/stankopedia/history/the-fall-of-new-freshland)
-- [Department of Candy Security](/stankopedia/agencies/department-of-candy-security)
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
-- [Strategic Cheese Reserve](/stankopedia/agencies/strategic-cheese-reserve)
+- [Doctor Mustington](/people/doctor-mustington)
+- [Advanced Cheese Studies](/food/advanced-cheese-studies)
+- [The Fall of New Freshland](/history/the-fall-of-new-freshland)
+- [Department of Candy Security](/agencies/department-of-candy-security)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
+- [Strategic Cheese Reserve](/agencies/strategic-cheese-reserve)
 
 ## Fake References
 

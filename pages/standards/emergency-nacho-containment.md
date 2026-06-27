@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - standards
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Emergency Nacho Containment
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
-- [The Internet of Stank](/stankopedia/technology/the-internet-of-stank)
-- [Advanced Must Calibration Guide](/stankopedia/standards/advanced-must-calibration-guide)
-- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
-- [The Forbidden Dryer Sheet](/stankopedia/lore/the-forbidden-dryer-sheet)
-- [Cryptocurrency and Dumpster Economics](/stankopedia/technology/cryptocurrency-and-dumpster-economics)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Path of Funk](/doctrine/the-path-of-funk)
+- [The Internet of Stank](/technology/the-internet-of-stank)
+- [Advanced Must Calibration Guide](/standards/advanced-must-calibration-guide)
+- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
+- [The Forbidden Dryer Sheet](/lore/the-forbidden-dryer-sheet)
+- [Cryptocurrency and Dumpster Economics](/technology/cryptocurrency-and-dumpster-economics)
 
 ## Fake References
 

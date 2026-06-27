@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - science
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Basement Humidity Studies
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Great Cheese Migration](/stankopedia/history/the-great-cheese-migration)
-- [The Soap Cartel](/stankopedia/government/the-soap-cartel)
-- [Freshness Containment Authority](/stankopedia/agencies/freshness-containment-authority)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
-- [Funkodynamics](/stankopedia/science/funkodynamics)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Great Cheese Migration](/history/the-great-cheese-migration)
+- [The Soap Cartel](/government/the-soap-cartel)
+- [Freshness Containment Authority](/agencies/freshness-containment-authority)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [Funkodynamics](/science/funkodynamics)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
 
 ## Fake References
 

@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - technology
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Metaverse Smells Weird
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Strategic Cheese Reserve](/stankopedia/agencies/strategic-cheese-reserve)
-- [The Raccoon Reformation](/stankopedia/history/the-raccoon-reformation)
-- [Basement Humidity Studies](/stankopedia/science/basement-humidity-studies)
-- [Stank Ethics and Moral Odors](/stankopedia/doctrine/stank-ethics-and-moral-odors)
-- [Professor Reginald Funkle III](/stankopedia/people/professor-reginald-funkle-iii)
-- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Strategic Cheese Reserve](/agencies/strategic-cheese-reserve)
+- [The Raccoon Reformation](/history/the-raccoon-reformation)
+- [Basement Humidity Studies](/science/basement-humidity-studies)
+- [Stank Ethics and Moral Odors](/doctrine/stank-ethics-and-moral-odors)
+- [Professor Reginald Funkle III](/people/professor-reginald-funkle-iii)
+- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
 
 ## Fake References
 

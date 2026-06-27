@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - people
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Doctor Mustington
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
-- [The Lost Scrolls of Grimehold](/stankopedia/lore/the-lost-scrolls-of-grimehold)
-- [Cloud-Based Funk Distribution](/stankopedia/technology/cloud-based-funk-distribution)
-- [The Great Cheese Migration](/stankopedia/history/the-great-cheese-migration)
-- [The Purity of Must](/stankopedia/doctrine/the-purity-of-must)
-- [The Bathing Agenda](/stankopedia/government/the-bathing-agenda)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Path of Funk](/doctrine/the-path-of-funk)
+- [The Lost Scrolls of Grimehold](/lore/the-lost-scrolls-of-grimehold)
+- [Cloud-Based Funk Distribution](/technology/cloud-based-funk-distribution)
+- [The Great Cheese Migration](/history/the-great-cheese-migration)
+- [The Purity of Must](/doctrine/the-purity-of-must)
+- [The Bathing Agenda](/government/the-bathing-agenda)
 
 ## Fake References
 

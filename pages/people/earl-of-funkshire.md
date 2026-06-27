@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - people
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Earl of Funkshire
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
-- [Why Fresh Laundry Is Suspicious](/stankopedia/science/why-fresh-laundry-is-suspicious)
-- [The Ancient Sock Archives](/stankopedia/lore/the-ancient-sock-archives)
-- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
-- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
-- [Approved Sources of Stank](/stankopedia/standards/approved-sources-of-stank)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
+- [Why Fresh Laundry Is Suspicious](/science/why-fresh-laundry-is-suspicious)
+- [The Ancient Sock Archives](/lore/the-ancient-sock-archives)
+- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
+- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
+- [Approved Sources of Stank](/standards/approved-sources-of-stank)
 
 ## Fake References
 

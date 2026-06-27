@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - technology
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Artificial Intelligence and Mustiness
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Advanced Must Calibration Guide](/stankopedia/standards/advanced-must-calibration-guide)
-- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
-- [The Lost Scrolls of Grimehold](/stankopedia/lore/the-lost-scrolls-of-grimehold)
-- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Internet of Stank](/stankopedia/technology/the-internet-of-stank)
-- [Ministry of Mild Confusion](/stankopedia/agencies/ministry-of-mild-confusion)
+- [Advanced Must Calibration Guide](/standards/advanced-must-calibration-guide)
+- [The First Dumpster Council](/history/the-first-dumpster-council)
+- [The Lost Scrolls of Grimehold](/lore/the-lost-scrolls-of-grimehold)
+- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Internet of Stank](/technology/the-internet-of-stank)
+- [Ministry of Mild Confusion](/agencies/ministry-of-mild-confusion)
 
 ## Fake References
 

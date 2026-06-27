@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - science
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Quantum Stank Entanglement
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Secret History of Shampoo](/stankopedia/government/the-secret-history-of-shampoo)
-- [Emergency Cake Procedures](/stankopedia/food/emergency-cake-procedures)
-- [The Stank Doctrine](/stankopedia/doctrine/the-stank-doctrine)
-- [Certified Funk Technician Handbook](/stankopedia/standards/certified-funk-technician-handbook)
-- [Bureau of Odor Preservation](/stankopedia/agencies/bureau-of-odor-preservation)
-- [Government Odor Suppression Programs](/stankopedia/government/government-odor-suppression-programs)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Secret History of Shampoo](/government/the-secret-history-of-shampoo)
+- [Emergency Cake Procedures](/food/emergency-cake-procedures)
+- [The Stank Doctrine](/doctrine/the-stank-doctrine)
+- [Certified Funk Technician Handbook](/standards/certified-funk-technician-handbook)
+- [Bureau of Odor Preservation](/agencies/bureau-of-odor-preservation)
+- [Government Odor Suppression Programs](/government/government-odor-suppression-programs)
 
 ## Fake References
 

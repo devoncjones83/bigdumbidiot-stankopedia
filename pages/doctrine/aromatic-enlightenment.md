@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - doctrine
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Aromatic Enlightenment
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
-- [Artificial Intelligence and Mustiness](/stankopedia/technology/artificial-intelligence-and-mustiness)
-- [Freshness Containment Authority](/stankopedia/agencies/freshness-containment-authority)
-- [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
-- [The Fall of New Freshland](/stankopedia/history/the-fall-of-new-freshland)
-- [The Seventh Dumpster](/stankopedia/lore/the-seventh-dumpster)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Operation Lemon Breeze](/history/operation-lemon-breeze)
+- [Artificial Intelligence and Mustiness](/technology/artificial-intelligence-and-mustiness)
+- [Freshness Containment Authority](/agencies/freshness-containment-authority)
+- [The Great Freshening Incident of 1987](/history/the-great-freshening-incident-of-1987)
+- [The Fall of New Freshland](/history/the-fall-of-new-freshland)
+- [The Seventh Dumpster](/lore/the-seventh-dumpster)
 
 ## Fake References
 

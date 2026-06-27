@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - food
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Why French Fries Improve Wisdom
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Soap Cartel](/stankopedia/government/the-soap-cartel)
-- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
-- [Why Hotels Give Away Tiny Soaps](/stankopedia/government/why-hotels-give-away-tiny-soaps)
-- [The Seventh Dumpster](/stankopedia/lore/the-seventh-dumpster)
-- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
-- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Soap Cartel](/government/the-soap-cartel)
+- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
+- [Why Hotels Give Away Tiny Soaps](/government/why-hotels-give-away-tiny-soaps)
+- [The Seventh Dumpster](/lore/the-seventh-dumpster)
+- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
+- [The Sacred Burrito](/food/the-sacred-burrito)
 
 ## Fake References
 

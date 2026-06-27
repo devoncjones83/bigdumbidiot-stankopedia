@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - people
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Greg the Raccoon
@@ -48,13 +48,13 @@ The Bureau of Raccoon Affairs maintains that there may be several Gregs. The Dep
 
 ## Related Articles
 
-- [Department of Candy Security](/stankopedia/agencies/department-of-candy-security)
-- [The Great Freshening Incident of 1987](/stankopedia/history/the-great-freshening-incident-of-1987)
-- [The Mold Wars](/stankopedia/history/the-mold-wars)
-- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
-- [Quantum Stank Entanglement](/stankopedia/science/quantum-stank-entanglement)
-- [The Theory of Recursive Odors](/stankopedia/science/the-theory-of-recursive-odors)
-- [The Soap Cartel](/stankopedia/government/the-soap-cartel)
+- [Department of Candy Security](/agencies/department-of-candy-security)
+- [The Great Freshening Incident of 1987](/history/the-great-freshening-incident-of-1987)
+- [The Mold Wars](/history/the-mold-wars)
+- [The Physics of Funk](/science/the-physics-of-funk)
+- [Quantum Stank Entanglement](/science/quantum-stank-entanglement)
+- [The Theory of Recursive Odors](/science/the-theory-of-recursive-odors)
+- [The Soap Cartel](/government/the-soap-cartel)
 
 ## Fake References
 

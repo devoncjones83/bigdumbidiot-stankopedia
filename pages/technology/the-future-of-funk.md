@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - technology
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Future of Funk
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Advanced Must Calibration Guide](/stankopedia/standards/advanced-must-calibration-guide)
-- [Why Robots Fear Odors](/stankopedia/technology/why-robots-fear-odors)
-- [Project Lemon Mist](/stankopedia/government/project-lemon-mist)
-- [The Lost Scrolls of Grimehold](/stankopedia/lore/the-lost-scrolls-of-grimehold)
-- [The Sacred Funk](/stankopedia/doctrine/the-sacred-funk)
-- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Advanced Must Calibration Guide](/standards/advanced-must-calibration-guide)
+- [Why Robots Fear Odors](/technology/why-robots-fear-odors)
+- [Project Lemon Mist](/government/project-lemon-mist)
+- [The Lost Scrolls of Grimehold](/lore/the-lost-scrolls-of-grimehold)
+- [The Sacred Funk](/doctrine/the-sacred-funk)
+- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
 
 ## Fake References
 

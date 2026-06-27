@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - standards
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Government Soap Detection Guide
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Freshness Heresies](/stankopedia/doctrine/freshness-heresies)
-- [The Bathing Agenda](/stankopedia/government/the-bathing-agenda)
-- [Freshness Containment Authority](/stankopedia/agencies/freshness-containment-authority)
-- [The Council of Snacks](/stankopedia/food/the-council-of-snacks)
-- [The Theory of Recursive Odors](/stankopedia/science/the-theory-of-recursive-odors)
-- [Candy Is Very Tasty](/stankopedia/food/candy-is-very-tasty)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Freshness Heresies](/doctrine/freshness-heresies)
+- [The Bathing Agenda](/government/the-bathing-agenda)
+- [Freshness Containment Authority](/agencies/freshness-containment-authority)
+- [The Council of Snacks](/food/the-council-of-snacks)
+- [The Theory of Recursive Odors](/science/the-theory-of-recursive-odors)
+- [Candy Is Very Tasty](/food/candy-is-very-tasty)
 
 ## Fake References
 

@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - agencies
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Ministry of Mild Confusion
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
-- [The Musty Prophet](/stankopedia/people/the-musty-prophet)
-- [The Sacred Funk](/stankopedia/doctrine/the-sacred-funk)
-- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
-- [Controlled Funk Reactions](/stankopedia/science/controlled-funk-reactions)
-- [The Secret History of Shampoo](/stankopedia/government/the-secret-history-of-shampoo)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The First Dumpster Council](/history/the-first-dumpster-council)
+- [The Musty Prophet](/people/the-musty-prophet)
+- [The Sacred Funk](/doctrine/the-sacred-funk)
+- [The Path of Funk](/doctrine/the-path-of-funk)
+- [Controlled Funk Reactions](/science/controlled-funk-reactions)
+- [The Secret History of Shampoo](/government/the-secret-history-of-shampoo)
 
 ## Fake References
 

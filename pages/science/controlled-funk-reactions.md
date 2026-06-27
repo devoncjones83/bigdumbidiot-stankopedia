@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - science
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Controlled Funk Reactions
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Advanced Cheese Studies](/stankopedia/food/advanced-cheese-studies)
-- [The Freshness Lobby](/stankopedia/government/the-freshness-lobby)
-- [Candy Consumption Best Practices](/stankopedia/standards/candy-consumption-best-practices)
-- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
-- [Department of Candy Security](/stankopedia/agencies/department-of-candy-security)
-- [Advanced Must Calibration Guide](/stankopedia/standards/advanced-must-calibration-guide)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Advanced Cheese Studies](/food/advanced-cheese-studies)
+- [The Freshness Lobby](/government/the-freshness-lobby)
+- [Candy Consumption Best Practices](/standards/candy-consumption-best-practices)
+- [The Sacred Burrito](/food/the-sacred-burrito)
+- [Department of Candy Security](/agencies/department-of-candy-security)
+- [Advanced Must Calibration Guide](/standards/advanced-must-calibration-guide)
 
 ## Fake References
 

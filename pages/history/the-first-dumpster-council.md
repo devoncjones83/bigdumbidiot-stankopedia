@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - history
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The First Dumpster Council
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Lemon Scent Paradox](/stankopedia/science/the-lemon-scent-paradox)
-- [Candy Resonance](/stankopedia/science/candy-resonance)
-- [The Seventh Dumpster Event](/stankopedia/history/the-seventh-dumpster-event)
-- [The Great Cheese Migration](/stankopedia/history/the-great-cheese-migration)
-- [Government Soap Detection Guide](/stankopedia/standards/government-soap-detection-guide)
-- [Social Media and Stank](/stankopedia/technology/social-media-and-stank)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Lemon Scent Paradox](/science/the-lemon-scent-paradox)
+- [Candy Resonance](/science/candy-resonance)
+- [The Seventh Dumpster Event](/history/the-seventh-dumpster-event)
+- [The Great Cheese Migration](/history/the-great-cheese-migration)
+- [Government Soap Detection Guide](/standards/government-soap-detection-guide)
+- [Social Media and Stank](/technology/social-media-and-stank)
 
 ## Fake References
 

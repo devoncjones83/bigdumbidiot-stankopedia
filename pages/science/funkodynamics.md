@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - science
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Funkodynamics
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Cloud-Based Funk Distribution](/stankopedia/technology/cloud-based-funk-distribution)
-- [Saint Moldric the Aromatic](/stankopedia/people/saint-moldric-the-aromatic)
-- [Candy Resonance](/stankopedia/science/candy-resonance)
-- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
-- [Hidden Messages in Air Freshener Commercials](/stankopedia/government/hidden-messages-in-air-freshener-commercials)
-- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Cloud-Based Funk Distribution](/technology/cloud-based-funk-distribution)
+- [Saint Moldric the Aromatic](/people/saint-moldric-the-aromatic)
+- [Candy Resonance](/science/candy-resonance)
+- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
+- [Hidden Messages in Air Freshener Commercials](/government/hidden-messages-in-air-freshener-commercials)
+- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
 
 ## Fake References
 

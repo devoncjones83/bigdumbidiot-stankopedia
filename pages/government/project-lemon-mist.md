@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - government
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Project Lemon Mist
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Advanced Must Calibration Guide](/stankopedia/standards/advanced-must-calibration-guide)
-- [Freshness Heresies](/stankopedia/doctrine/freshness-heresies)
-- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
-- [The Physics of Funk](/stankopedia/science/the-physics-of-funk)
-- [Candy Is Very Tasty](/stankopedia/food/candy-is-very-tasty)
-- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Advanced Must Calibration Guide](/standards/advanced-must-calibration-guide)
+- [Freshness Heresies](/doctrine/freshness-heresies)
+- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
+- [The Physics of Funk](/science/the-physics-of-funk)
+- [Candy Is Very Tasty](/food/candy-is-very-tasty)
+- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
 
 ## Fake References
 

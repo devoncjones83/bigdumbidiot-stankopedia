@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - food
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Sacred Burrito
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
-- [The Funk Nexus](/stankopedia/lore/the-funk-nexus)
-- [The Vault of Forgotten Leftovers](/stankopedia/lore/the-vault-of-forgotten-leftovers)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
-- [The Chamber of Unidentified Smells](/stankopedia/lore/the-chamber-of-unidentified-smells)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Operation Lemon Breeze](/history/operation-lemon-breeze)
+- [The Funk Nexus](/lore/the-funk-nexus)
+- [The Vault of Forgotten Leftovers](/lore/the-vault-of-forgotten-leftovers)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [The Chamber of Unidentified Smells](/lore/the-chamber-of-unidentified-smells)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
 
 ## Fake References
 

@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - government
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Why Hotels Give Away Tiny Soaps
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Path of Funk](/stankopedia/doctrine/the-path-of-funk)
-- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
-- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
-- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
-- [Applied Dumpster Dynamics](/stankopedia/science/applied-dumpster-dynamics)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Path of Funk](/doctrine/the-path-of-funk)
+- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
+- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
+- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [Applied Dumpster Dynamics](/science/applied-dumpster-dynamics)
 
 ## Fake References
 

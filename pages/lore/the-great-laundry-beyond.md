@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - lore
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Great Laundry Beyond
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Basement Humidity Studies](/stankopedia/science/basement-humidity-studies)
-- [The Secret History of Shampoo](/stankopedia/government/the-secret-history-of-shampoo)
-- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
-- [Certified Funk Technician Handbook](/stankopedia/standards/certified-funk-technician-handbook)
-- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
-- [The Febreeze Catastrophe](/stankopedia/history/the-febreeze-catastrophe)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Basement Humidity Studies](/science/basement-humidity-studies)
+- [The Secret History of Shampoo](/government/the-secret-history-of-shampoo)
+- [The Sacred Burrito](/food/the-sacred-burrito)
+- [Certified Funk Technician Handbook](/standards/certified-funk-technician-handbook)
+- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
+- [The Febreeze Catastrophe](/history/the-febreeze-catastrophe)
 
 ## Fake References
 

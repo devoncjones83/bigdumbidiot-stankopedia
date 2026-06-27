@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - agencies
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # National Funk Administration
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Ancient Sock Archives](/stankopedia/lore/the-ancient-sock-archives)
-- [Office of Questionable Science](/stankopedia/agencies/office-of-questionable-science)
-- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
-- [Hidden Messages in Air Freshener Commercials](/stankopedia/government/hidden-messages-in-air-freshener-commercials)
-- [Department of Advanced Stank](/stankopedia/agencies/department-of-advanced-stank)
-- [The Sacred Burrito](/stankopedia/food/the-sacred-burrito)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Ancient Sock Archives](/lore/the-ancient-sock-archives)
+- [Office of Questionable Science](/agencies/office-of-questionable-science)
+- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
+- [Hidden Messages in Air Freshener Commercials](/government/hidden-messages-in-air-freshener-commercials)
+- [Department of Advanced Stank](/agencies/department-of-advanced-stank)
+- [The Sacred Burrito](/food/the-sacred-burrito)
 
 ## Fake References
 

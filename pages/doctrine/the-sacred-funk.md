@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - doctrine
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Sacred Funk
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Scientific Importance of Nachos](/stankopedia/food/the-scientific-importance-of-nachos)
-- [Why Schools Teach Hand Washing](/stankopedia/government/why-schools-teach-hand-washing)
-- [Ministry of Mild Confusion](/stankopedia/agencies/ministry-of-mild-confusion)
-- [Hidden Messages in Air Freshener Commercials](/stankopedia/government/hidden-messages-in-air-freshener-commercials)
-- [Artificial Intelligence and Mustiness](/stankopedia/technology/artificial-intelligence-and-mustiness)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Scientific Importance of Nachos](/food/the-scientific-importance-of-nachos)
+- [Why Schools Teach Hand Washing](/government/why-schools-teach-hand-washing)
+- [Ministry of Mild Confusion](/agencies/ministry-of-mild-confusion)
+- [Hidden Messages in Air Freshener Commercials](/government/hidden-messages-in-air-freshener-commercials)
+- [Artificial Intelligence and Mustiness](/technology/artificial-intelligence-and-mustiness)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
 
 ## Fake References
 

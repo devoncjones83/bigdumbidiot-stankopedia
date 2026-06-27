@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - history
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Battle of Funk Ridge
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Certified Funk Technician Handbook](/stankopedia/standards/certified-funk-technician-handbook)
-- [Sister Mildew](/stankopedia/people/sister-mildew)
-- [Why French Fries Improve Wisdom](/stankopedia/food/why-french-fries-improve-wisdom)
-- [Pizza as a Spiritual Experience](/stankopedia/food/pizza-as-a-spiritual-experience)
-- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
-- [Why Robots Fear Odors](/stankopedia/technology/why-robots-fear-odors)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Certified Funk Technician Handbook](/standards/certified-funk-technician-handbook)
+- [Sister Mildew](/people/sister-mildew)
+- [Why French Fries Improve Wisdom](/food/why-french-fries-improve-wisdom)
+- [Pizza as a Spiritual Experience](/food/pizza-as-a-spiritual-experience)
+- [Operation Lemon Breeze](/history/operation-lemon-breeze)
+- [Why Robots Fear Odors](/technology/why-robots-fear-odors)
 
 ## Fake References
 

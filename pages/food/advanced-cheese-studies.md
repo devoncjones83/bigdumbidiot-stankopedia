@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - food
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Advanced Cheese Studies
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Why Robots Fear Odors](/stankopedia/technology/why-robots-fear-odors)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
-- [The Stank Doctrine](/stankopedia/doctrine/the-stank-doctrine)
-- [Why Fresh Laundry Is Suspicious](/stankopedia/science/why-fresh-laundry-is-suspicious)
-- [Stank in the Digital Age](/stankopedia/technology/stank-in-the-digital-age)
-- [Freshness Incident Response Procedures](/stankopedia/standards/freshness-incident-response-procedures)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Why Robots Fear Odors](/technology/why-robots-fear-odors)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
+- [The Stank Doctrine](/doctrine/the-stank-doctrine)
+- [Why Fresh Laundry Is Suspicious](/science/why-fresh-laundry-is-suspicious)
+- [Stank in the Digital Age](/technology/stank-in-the-digital-age)
+- [Freshness Incident Response Procedures](/standards/freshness-incident-response-procedures)
 
 ## Fake References
 

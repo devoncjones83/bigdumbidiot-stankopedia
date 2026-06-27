@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - lore
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Seventh Dumpster
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Freshness Incident Response Procedures](/stankopedia/standards/freshness-incident-response-procedures)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
-- [The Mold Wars](/stankopedia/history/the-mold-wars)
-- [The Sacred Funk](/stankopedia/doctrine/the-sacred-funk)
-- [Stank Particle Acceleration](/stankopedia/science/stank-particle-acceleration)
-- [Cryptocurrency and Dumpster Economics](/stankopedia/technology/cryptocurrency-and-dumpster-economics)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Freshness Incident Response Procedures](/standards/freshness-incident-response-procedures)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
+- [The Mold Wars](/history/the-mold-wars)
+- [The Sacred Funk](/doctrine/the-sacred-funk)
+- [Stank Particle Acceleration](/science/stank-particle-acceleration)
+- [Cryptocurrency and Dumpster Economics](/technology/cryptocurrency-and-dumpster-economics)
 
 ## Fake References
 

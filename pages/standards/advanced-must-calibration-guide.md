@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - standards
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Advanced Must Calibration Guide
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The Vault of Forgotten Leftovers](/stankopedia/lore/the-vault-of-forgotten-leftovers)
-- [Stank Classification Standard S-9000](/stankopedia/standards/stank-classification-standard-s-9000)
-- [Artificial Intelligence and Mustiness](/stankopedia/technology/artificial-intelligence-and-mustiness)
-- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
-- [Odoronomy](/stankopedia/science/odoronomy)
-- [The Soap Cartel](/stankopedia/government/the-soap-cartel)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The Vault of Forgotten Leftovers](/lore/the-vault-of-forgotten-leftovers)
+- [Stank Classification Standard S-9000](/standards/stank-classification-standard-s-9000)
+- [Artificial Intelligence and Mustiness](/technology/artificial-intelligence-and-mustiness)
+- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
+- [Odoronomy](/science/odoronomy)
+- [The Soap Cartel](/government/the-soap-cartel)
 
 ## Fake References
 

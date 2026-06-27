@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - doctrine
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Why Soap Cannot Be Trusted
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
-- [The Deodorant Industrial Complex](/stankopedia/government/the-deodorant-industrial-complex)
-- [The Secret History of Shampoo](/stankopedia/government/the-secret-history-of-shampoo)
-- [The Sacred Funk](/stankopedia/doctrine/the-sacred-funk)
-- [Government Odor Suppression Programs](/stankopedia/government/government-odor-suppression-programs)
-- [The Bathing Agenda](/stankopedia/government/the-bathing-agenda)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Operation Lemon Breeze](/history/operation-lemon-breeze)
+- [The Deodorant Industrial Complex](/government/the-deodorant-industrial-complex)
+- [The Secret History of Shampoo](/government/the-secret-history-of-shampoo)
+- [The Sacred Funk](/doctrine/the-sacred-funk)
+- [Government Odor Suppression Programs](/government/government-odor-suppression-programs)
+- [The Bathing Agenda](/government/the-bathing-agenda)
 
 ## Fake References
 

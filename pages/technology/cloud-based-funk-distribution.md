@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - technology
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Cloud-Based Funk Distribution
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [National Funk Administration](/stankopedia/agencies/national-funk-administration)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
-- [The Future of Funk](/stankopedia/technology/the-future-of-funk)
-- [The Twelve Principles of Advanced Stank](/stankopedia/doctrine/the-twelve-principles-of-advanced-stank)
-- [Office of Questionable Science](/stankopedia/agencies/office-of-questionable-science)
-- [The Ancient Hoodie Accords](/stankopedia/history/the-ancient-hoodie-accords)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [National Funk Administration](/agencies/national-funk-administration)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
+- [The Future of Funk](/technology/the-future-of-funk)
+- [The Twelve Principles of Advanced Stank](/doctrine/the-twelve-principles-of-advanced-stank)
+- [Office of Questionable Science](/agencies/office-of-questionable-science)
+- [The Ancient Hoodie Accords](/history/the-ancient-hoodie-accords)
 
 ## Fake References
 

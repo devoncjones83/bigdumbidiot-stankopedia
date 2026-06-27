@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - lore
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Prophecy of Funk
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
-- [The Mold Wars](/stankopedia/history/the-mold-wars)
-- [Applied Dumpster Dynamics](/stankopedia/science/applied-dumpster-dynamics)
-- [The Sacred Funk](/stankopedia/doctrine/the-sacred-funk)
-- [Operation Lemon Breeze](/stankopedia/history/operation-lemon-breeze)
-- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
+- [The Mold Wars](/history/the-mold-wars)
+- [Applied Dumpster Dynamics](/science/applied-dumpster-dynamics)
+- [The Sacred Funk](/doctrine/the-sacred-funk)
+- [Operation Lemon Breeze](/history/operation-lemon-breeze)
+- [Ancient Donut Traditions](/food/ancient-donut-traditions)
 
 ## Fake References
 

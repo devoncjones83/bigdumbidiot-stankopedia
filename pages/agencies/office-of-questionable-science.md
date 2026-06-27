@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - agencies
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # Office of Questionable Science
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [Why French Fries Improve Wisdom](/stankopedia/food/why-french-fries-improve-wisdom)
-- [Emergency Nacho Containment](/stankopedia/standards/emergency-nacho-containment)
-- [The Forbidden Dryer Sheet](/stankopedia/lore/the-forbidden-dryer-sheet)
-- [The Lemon Scent Paradox](/stankopedia/science/the-lemon-scent-paradox)
-- [Freshness Heresies](/stankopedia/doctrine/freshness-heresies)
-- [Bureau of Raccoon Affairs](/stankopedia/agencies/bureau-of-raccoon-affairs)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [Why French Fries Improve Wisdom](/food/why-french-fries-improve-wisdom)
+- [Emergency Nacho Containment](/standards/emergency-nacho-containment)
+- [The Forbidden Dryer Sheet](/lore/the-forbidden-dryer-sheet)
+- [The Lemon Scent Paradox](/science/the-lemon-scent-paradox)
+- [Freshness Heresies](/doctrine/freshness-heresies)
+- [Bureau of Raccoon Affairs](/agencies/bureau-of-raccoon-affairs)
 
 ## Fake References
 

@@ -5,7 +5,7 @@ tags:
   - stankopedia
   - science
   - big-dumb-idiot-labs
-created: 2026-05-31
+created: 2026-06-27
 ---
 
 # The Theory of Recursive Odors
@@ -48,13 +48,13 @@ Greg the Raccoon is mentioned in the surviving records, though his role is descr
 
 ## Related Articles
 
-- [Greg the Raccoon](/stankopedia/people/greg-the-raccoon)
-- [The First Dumpster Council](/stankopedia/history/the-first-dumpster-council)
-- [The Prophecy of Funk](/stankopedia/lore/the-prophecy-of-funk)
-- [Why Dessert Comes First](/stankopedia/food/why-dessert-comes-first)
-- [Ancient Donut Traditions](/stankopedia/food/ancient-donut-traditions)
-- [Candy Consumption Best Practices](/stankopedia/standards/candy-consumption-best-practices)
-- [The Rise of Grimehold](/stankopedia/history/the-rise-of-grimehold)
+- [Greg the Raccoon](/people/greg-the-raccoon)
+- [The First Dumpster Council](/history/the-first-dumpster-council)
+- [The Prophecy of Funk](/lore/the-prophecy-of-funk)
+- [Why Dessert Comes First](/food/why-dessert-comes-first)
+- [Ancient Donut Traditions](/food/ancient-donut-traditions)
+- [Candy Consumption Best Practices](/standards/candy-consumption-best-practices)
+- [The Rise of Grimehold](/history/the-rise-of-grimehold)
 
 ## Fake References
 
