@@ -28,10 +28,21 @@ WHERE path LIKE 'stankopedia/%';
 
 updates=["BEGIN;"]
 
+rendered_count = 0
+skipped_count = 0
+
 for row in rows:
     if not row.strip():
+        skipped_count += 1
         continue
-    page_id, content = row.split("\t",1)
+
+    if "\t" not in row:
+        skipped_count += 1
+        print(f"Skipping malformed row: {row[:120]!r}")
+        continue
+
+    page_id, content = row.split("\t", 1)
+    rendered_count += 1
 
     rendered = markdown.markdown(
         content,
@@ -48,4 +59,4 @@ WHERE id = {int(page_id)};
 
 updates.append("COMMIT;")
 run_sql("\n".join(updates))
-print(f"Re-rendered {len(rows)} stank pages.")
+print(f"Re-rendered {rendered_count} stank pages. Skipped {skipped_count} malformed/blank rows.")
