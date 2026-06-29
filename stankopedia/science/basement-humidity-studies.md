@@ -2,7 +2,7 @@
 title: Basement Humidity Studies
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:13.953Z
+date: 2026-06-29T02:58:38.213Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.197033+00:00
