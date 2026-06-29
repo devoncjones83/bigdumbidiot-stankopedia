@@ -2,7 +2,7 @@
 title: Government Odor Suppression Programs
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:28:55.447Z
+date: 2026-06-29T02:42:35.800Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.174348+00:00
