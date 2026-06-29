@@ -2,7 +2,7 @@
 title: The Beauty of Stank
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:41:55.193Z
+date: 2026-06-29T02:56:18.108Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.165576+00:00
