@@ -2,7 +2,7 @@
 title: Bureau of Raccoon Affairs
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:41:35.424Z
+date: 2026-06-29T02:55:56.099Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.159892+00:00
