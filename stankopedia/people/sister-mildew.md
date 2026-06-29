@@ -2,7 +2,7 @@
 title: Sister Mildew
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:30:17.184Z
+date: 2026-06-29T02:43:58.891Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.194685+00:00
