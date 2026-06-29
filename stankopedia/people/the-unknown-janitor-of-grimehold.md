@@ -2,7 +2,7 @@
 title: The Unknown Janitor of Grimehold
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:02.245Z
+date: 2026-06-29T02:58:24.761Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.195626+00:00
