@@ -2,7 +2,7 @@
 title: Social Media and Stank
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:45:02.605Z
+date: 2026-06-29T02:59:30.440Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.209810+00:00
