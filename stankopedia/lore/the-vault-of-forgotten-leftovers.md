@@ -2,7 +2,7 @@
 title: The Vault of Forgotten Leftovers
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:30:01.029Z
+date: 2026-06-29T02:43:44.799Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.190898+00:00
