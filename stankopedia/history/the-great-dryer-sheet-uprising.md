@@ -2,7 +2,7 @@
 title: The Great Dryer Sheet Uprising
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:43:08.528Z
+date: 2026-06-29T02:57:29.808Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.182785+00:00
