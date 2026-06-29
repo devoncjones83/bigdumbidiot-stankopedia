@@ -2,7 +2,7 @@
 title: Advanced Cheese Studies
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:28:34.149Z
+date: 2026-06-29T02:42:17.375Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.169190+00:00
