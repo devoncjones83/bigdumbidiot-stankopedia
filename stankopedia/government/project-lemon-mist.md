@@ -2,7 +2,7 @@
 title: Project Lemon Mist
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:42:39.531Z
+date: 2026-06-29T02:57:03.625Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.175404+00:00
