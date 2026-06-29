@@ -2,7 +2,7 @@
 title: The Seventh Dumpster
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:43:42.808Z
+date: 2026-06-29T02:58:03.978Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.190420+00:00
