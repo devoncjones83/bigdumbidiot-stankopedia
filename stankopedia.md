@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: Canonical engineering knowledge base for the STANK methodology.
 published: true
-date: 2026-06-29T02:43:24.286Z
+date: 2026-06-29T02:57:47.313Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-02T01:20:15.085Z
