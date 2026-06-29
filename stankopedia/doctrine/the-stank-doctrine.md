@@ -2,7 +2,7 @@
 title: The Stank Doctrine
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:42:02.451Z
+date: 2026-06-29T02:56:25.947Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.167622+00:00
