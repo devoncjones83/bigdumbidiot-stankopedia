@@ -2,7 +2,7 @@
 title: Reference Collections
 description: Informational STANKOPEDIA collections and supporting materials.
 published: true
-date: 2026-06-29T02:44:05.547Z
+date: 2026-06-29T02:58:28.449Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-29T02:20:03.504Z
