@@ -2,7 +2,7 @@
 title: The Great Laundry Beyond
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:43:34.583Z
+date: 2026-06-29T02:57:56.602Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.188545+00:00
