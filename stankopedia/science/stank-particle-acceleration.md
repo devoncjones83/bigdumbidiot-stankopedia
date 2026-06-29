@@ -2,7 +2,7 @@
 title: Stank Particle Acceleration
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:28.156Z
+date: 2026-06-29T02:58:54.022Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.200810+00:00
