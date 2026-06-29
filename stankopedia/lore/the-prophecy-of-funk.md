@@ -2,7 +2,7 @@
 title: The Prophecy of Funk
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:29:55.227Z
+date: 2026-06-29T02:43:38.792Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.189484+00:00
