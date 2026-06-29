@@ -2,7 +2,7 @@
 title: The Sacred Hoodie
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:29:57.129Z
+date: 2026-06-29T02:43:40.773Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.189951+00:00
