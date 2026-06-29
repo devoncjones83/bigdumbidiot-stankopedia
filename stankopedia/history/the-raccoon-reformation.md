@@ -2,7 +2,7 @@
 title: The Raccoon Reformation
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:29:32.207Z
+date: 2026-06-29T02:43:14.552Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.184217+00:00
