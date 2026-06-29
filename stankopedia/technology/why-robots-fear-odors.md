@@ -2,7 +2,7 @@
 title: Why Robots Fear Odors
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:31:38.448Z
+date: 2026-06-29T02:45:12.032Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.212345+00:00
