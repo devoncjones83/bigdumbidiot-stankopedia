@@ -2,7 +2,7 @@
 title: Emergency Cake Procedures
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:28:40.402Z
+date: 2026-06-29T02:42:22.955Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.170729+00:00
