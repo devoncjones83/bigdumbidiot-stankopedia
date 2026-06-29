@@ -2,7 +2,7 @@
 title: Registries
 description: Controlled indexes and inventories for STANKOPEDIA.
 published: true
-date: 2026-06-29T02:44:08.895Z
+date: 2026-06-29T02:58:32.131Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-29T02:20:09.338Z
