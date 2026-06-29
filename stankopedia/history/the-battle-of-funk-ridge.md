@@ -2,7 +2,7 @@
 title: The Battle of Funk Ridge
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:42:58.707Z
+date: 2026-06-29T02:57:20.982Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.180380+00:00
