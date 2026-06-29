@@ -2,7 +2,7 @@
 title: Applied Dumpster Dynamics
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:12.289Z
+date: 2026-06-29T02:58:36.137Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.196555+00:00
