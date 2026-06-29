@@ -2,7 +2,7 @@
 title: The Purity of Must
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:41:58.801Z
+date: 2026-06-29T02:56:22.108Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.166594+00:00
