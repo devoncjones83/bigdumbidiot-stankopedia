@@ -2,7 +2,7 @@
 title: SAS-001 — STANKOPEDIA Architecture Specification
 description: Defines the information architecture, document taxonomy, and control boundaries for STANKOPEDIA.
 published: true
-date: 2026-06-29T02:42:10.241Z
+date: 2026-06-29T02:56:33.867Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-29T02:19:40.074Z
