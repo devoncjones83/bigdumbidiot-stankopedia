@@ -2,7 +2,7 @@
 title: Why Fresh Laundry Is Suspicious
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:31:01.661Z
+date: 2026-06-29T02:44:35.203Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.202692+00:00
