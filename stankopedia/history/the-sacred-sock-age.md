@@ -2,7 +2,7 @@
 title: The Sacred Sock Age
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:43:18.429Z
+date: 2026-06-29T02:57:38.805Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.185173+00:00
