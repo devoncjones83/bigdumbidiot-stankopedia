@@ -2,7 +2,7 @@
 title: Controlled Funk Reactions
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:17.411Z
+date: 2026-06-29T02:58:42.097Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.197986+00:00
