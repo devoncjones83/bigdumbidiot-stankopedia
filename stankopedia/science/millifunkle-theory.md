@@ -2,7 +2,7 @@
 title: Millifunkle Theory
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:22.777Z
+date: 2026-06-29T02:58:48.063Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.199394+00:00
