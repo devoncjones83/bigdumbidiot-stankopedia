@@ -2,7 +2,7 @@
 title: The War of Mildly Damp Towels
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:43:22.378Z
+date: 2026-06-29T02:57:42.507Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.186145+00:00
