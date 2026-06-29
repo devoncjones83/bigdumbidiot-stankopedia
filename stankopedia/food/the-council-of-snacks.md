@@ -2,7 +2,7 @@
 title: The Council of Snacks
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:42:26.584Z
+date: 2026-06-29T02:56:51.388Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.171780+00:00
