@@ -2,7 +2,7 @@
 title: Stank in the Digital Age
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:45:04.591Z
+date: 2026-06-29T02:59:32.181Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.210298+00:00
