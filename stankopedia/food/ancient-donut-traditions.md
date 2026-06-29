@@ -2,7 +2,7 @@
 title: Ancient Donut Traditions
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:42:19.259Z
+date: 2026-06-29T02:56:43.679Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.169701+00:00
