@@ -2,7 +2,7 @@
 title: Stank Ethics and Moral Odors
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:41:53.419Z
+date: 2026-06-29T02:56:16.218Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.165076+00:00
