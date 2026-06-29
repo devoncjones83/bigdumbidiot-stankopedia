@@ -2,7 +2,7 @@
 title: Why Hotels Give Away Tiny Soaps
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:42:51.012Z
+date: 2026-06-29T02:57:13.990Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.178315+00:00
