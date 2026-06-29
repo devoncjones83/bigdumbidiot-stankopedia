@@ -2,7 +2,7 @@
 title: Office of Questionable Science
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:28:00.379Z
+date: 2026-06-29T02:41:46.254Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.163018+00:00
