@@ -2,7 +2,7 @@
 title: Approved Sources of Stank
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:31:08.320Z
+date: 2026-06-29T02:44:40.538Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.204115+00:00
