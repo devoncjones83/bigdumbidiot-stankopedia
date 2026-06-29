@@ -2,7 +2,7 @@
 title: Why Dessert Comes First
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:28:51.026Z
+date: 2026-06-29T02:42:32.093Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.173327+00:00
