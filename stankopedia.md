@@ -1,71 +1,59 @@
 ---
-title: Home
-description: A Big Dumb Idiot Labs Stankopedia page.
+title: Stankopedia Home
+description: Canonical engineering knowledge base for the STANK methodology.
 published: true
-date: 2026-06-29T02:29:41.471Z
+date: 2026-06-29T02:43:24.286Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-02T01:20:15.085Z
 ---
 
-# 🦨 Big Dumb Idiot Labs
+# 🦨 STANKOPEDIA
 
-> **Research division portal. Industrial-grade nonsense. Controlled stank release authorized.**
+> **The canonical engineering knowledge base for the STANK methodology.**
 
----
-
-## Research Divisions
-
-### 🦨 [STANKOPEDIA](/stankopedia)
-
-Canonical engineering knowledge base for the STANK methodology.
-
-Standards, workflows, templates, checklists, registries, Wombats, project records, and reference material.
+STANKOPEDIA is the controlled reference system for standards, workflows, registries, Wombats, projects, and operational knowledge.
 
 ---
 
-### 📻 [STANK RADIO](/stank-radio)
+## Engineering Spine
 
-Active production project for filthy broadcast operations.
+### [Engineering Standards](/stankopedia/engineering/standards)
+Mandatory principles, specifications, and accepted engineering rules.
 
-Music pipeline, industrial UI assets, containment console, and runtime production notes.
+### [Workflows](/stankopedia/engineering/workflows)
+Approved procedures for building, reviewing, changing, and accepting work.
 
----
+### [Templates](/stankopedia/engineering/templates)
+Reusable document forms for STANK artifacts.
 
-### 🧠 Mind Slop
-
-Concept development, raw ideas, weird fragments, and experimental material.
-
----
-
-### ⚠️ Bad Brain
-
-Unstable research zone. Enter only with proper containment procedures.
+### [Checklists](/stankopedia/engineering/checklists)
+Verification lists for review, acceptance, and production readiness.
 
 ---
 
-### 🗄️ Data Dumpster
+## Knowledge Systems
 
-Archives, raw material, discarded concepts, backups, and recoverable debris.
+### [Registries](/stankopedia/registries)
+Canonical indexes for documents, assets, standards, decisions, and project records.
+
+### [Wombats](/stankopedia/wombats)
+Living knowledge pages, incidents, oddities, research notes, and field records.
+
+### [Reference](/stankopedia/reference)
+Informational material that supports the engineering standard.
+
+### [Projects](/stankopedia/projects/stank-radio)
+Active and historical STANK projects.
 
 ---
 
-## Current Primary System
+## Current Priority
 
-### STANKOPEDIA
+**STANKOPEDIA Overhaul — Phase 1**
 
-STANKOPEDIA is being upgraded from a loose knowledge base into a structured engineering reference system.
-
-Primary divisions:
-
-- **Engineering Standards**
-- **Workflows**
-- **Templates**
-- **Checklists**
-- **Registries**
-- **Wombats**
-- **Reference**
-- **Projects**
+Status: Active  
+Objective: Establish the engineering spine, stabilize publishing, and prepare for controlled content migration.
 
 ---
 
