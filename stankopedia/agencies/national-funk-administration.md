@@ -2,7 +2,7 @@
 title: National Funk Administration
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:27:58.372Z
+date: 2026-06-29T02:41:44.474Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.162486+00:00
