@@ -2,7 +2,7 @@
 title: The Great Freshening Incident of 1987
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:29:28.571Z
+date: 2026-06-29T02:43:10.573Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.183263+00:00
