@@ -2,7 +2,7 @@
 title: REG-001 — Document Registry
 description: Master registry for controlled STANKOPEDIA documents.
 published: true
-date: 2026-06-29T02:20:06.407Z
+date: 2026-06-29T02:30:27.150Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-29T02:20:06.407Z
