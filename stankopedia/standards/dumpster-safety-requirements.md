@@ -2,7 +2,7 @@
 title: Dumpster Safety Requirements
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:45.985Z
+date: 2026-06-29T02:59:14.319Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.205516+00:00
