@@ -2,7 +2,7 @@
 title: Funkodynamics
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:19.172Z
+date: 2026-06-29T02:58:44.039Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.198448+00:00
