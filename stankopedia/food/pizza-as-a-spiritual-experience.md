@@ -2,7 +2,7 @@
 title: Pizza as a Spiritual Experience
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:28:42.483Z
+date: 2026-06-29T02:42:24.771Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.171256+00:00
