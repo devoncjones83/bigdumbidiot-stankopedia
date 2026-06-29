@@ -2,7 +2,7 @@
 title: Air Freshener Threat Matrix
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:31:06.093Z
+date: 2026-06-29T02:44:38.658Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.203639+00:00
