@@ -2,7 +2,7 @@
 title: Checklists
 description: Review and acceptance checklists for STANK work.
 published: true
-date: 2026-06-29T02:42:08.208Z
+date: 2026-06-29T02:56:32.003Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-29T02:19:36.981Z
