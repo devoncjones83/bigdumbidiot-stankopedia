@@ -2,7 +2,7 @@
 title: The Mold Wars
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:29:30.348Z
+date: 2026-06-29T02:43:12.615Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.183736+00:00
