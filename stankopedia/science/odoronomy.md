@@ -2,7 +2,7 @@
 title: Odoronomy
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:44:24.522Z
+date: 2026-06-29T02:58:49.998Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.199868+00:00
