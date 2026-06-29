@@ -2,7 +2,7 @@
 title: Government Soap Detection Guide
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:31:18.877Z
+date: 2026-06-29T02:44:51.417Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.206925+00:00
