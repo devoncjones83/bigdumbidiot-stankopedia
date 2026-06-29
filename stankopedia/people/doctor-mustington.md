@@ -2,7 +2,7 @@
 title: Doctor Mustington
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:43:50.462Z
+date: 2026-06-29T02:58:11.542Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.192311+00:00
