@@ -2,7 +2,7 @@
 title: Captain Dumpsterfire
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:30:05.284Z
+date: 2026-06-29T02:43:48.825Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.191837+00:00
