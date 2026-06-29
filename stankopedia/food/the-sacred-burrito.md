@@ -2,7 +2,7 @@
 title: The Sacred Burrito
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:42:28.434Z
+date: 2026-06-29T02:56:53.176Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.172293+00:00
