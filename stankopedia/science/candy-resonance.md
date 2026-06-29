@@ -2,7 +2,7 @@
 title: Candy Resonance
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:30:37.272Z
+date: 2026-06-29T02:44:15.722Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.197503+00:00
