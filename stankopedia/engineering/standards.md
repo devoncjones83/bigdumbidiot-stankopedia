@@ -2,7 +2,7 @@
 title: Engineering Standards
 description: Index of STANK engineering standards and controlled rules.
 published: true
-date: 2026-06-29T02:42:12.093Z
+date: 2026-06-29T02:56:35.961Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-29T02:19:43.195Z
