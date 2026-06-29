@@ -2,7 +2,7 @@
 title: Index
 description: A Big Dumb Idiot Labs Stankopedia page.
 published: true
-date: 2026-06-27T20:53:44.043Z
+date: 2026-06-29T02:32:01.247Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-27T20:53:44.043Z
@@ -19,6 +19,14 @@ dateCreated: 2026-06-27T20:53:44.043Z
 This Wombat Division case file was generated automatically from the stankdrop evidence locker.
 
 ## Evidence Archive
+
+### WC13-021 meadow repose
+
+![WC13-021 meadow repose](/images/wombats/wc13/WC13-021_meadow_repose.png)
+
+### WC13-022 picnic preparations
+
+![WC13-022 picnic preparations](/images/wombats/wc13/WC13-022_picnic_preparations.png)
 
 ### WC13-021 meadow repose
 
