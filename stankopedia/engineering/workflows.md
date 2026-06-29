@@ -2,7 +2,7 @@
 title: Workflows
 description: Approved STANK process flows.
 published: true
-date: 2026-06-29T02:42:15.637Z
+date: 2026-06-29T02:56:39.832Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-29T02:19:48.881Z
