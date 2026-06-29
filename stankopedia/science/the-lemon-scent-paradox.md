@@ -2,7 +2,7 @@
 title: The Lemon Scent Paradox
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:30:55.216Z
+date: 2026-06-29T02:44:29.998Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.201281+00:00
