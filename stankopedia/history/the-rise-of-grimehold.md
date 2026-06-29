@@ -2,7 +2,7 @@
 title: The Rise of Grimehold
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:29:34.060Z
+date: 2026-06-29T02:43:16.428Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.184679+00:00
