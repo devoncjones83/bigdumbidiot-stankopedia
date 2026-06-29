@@ -2,7 +2,7 @@
 title: Templates
 description: Approved STANK artifact templates.
 published: true
-date: 2026-06-29T02:28:30.479Z
+date: 2026-06-29T02:42:13.861Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-29T02:19:46.188Z
