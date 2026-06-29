@@ -2,7 +2,7 @@
 title: The Metaverse Smells Weird
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:45:10.216Z
+date: 2026-06-29T02:59:37.418Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.211861+00:00
