@@ -2,7 +2,7 @@
 title: The Ancient Sock Archives
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:29:43.435Z
+date: 2026-06-29T02:43:26.427Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.186615+00:00
