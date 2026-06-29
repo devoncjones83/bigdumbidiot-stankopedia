@@ -2,7 +2,7 @@
 title: The Internet of Stank
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:31:34.837Z
+date: 2026-06-29T02:45:08.274Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.211331+00:00
