@@ -2,7 +2,7 @@
 title: Why French Fries Improve Wisdom
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:28:53.167Z
+date: 2026-06-29T02:42:33.949Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.173836+00:00
