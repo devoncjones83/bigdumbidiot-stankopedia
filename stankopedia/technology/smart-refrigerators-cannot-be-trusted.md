@@ -2,7 +2,7 @@
 title: Smart Refrigerators Cannot Be Trusted
 description: A certified Stankopedia entry from Big Dumb Idiot Labs.
 published: true
-date: 2026-06-29T02:31:27.660Z
+date: 2026-06-29T02:45:00.652Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-01T04:15:31.209318+00:00
