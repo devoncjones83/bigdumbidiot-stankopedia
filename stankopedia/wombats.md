@@ -2,7 +2,7 @@
 title: Wombats
 description: Living Wombat pages and institutional oddities preserved by STANKOPEDIA.
 published: true
-date: 2026-06-29T02:45:38.284Z
+date: 2026-06-29T03:00:03.154Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-03T03:33:35.714Z
