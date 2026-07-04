@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: Canonical engineering knowledge base for the STANK methodology.
 published: true
-date: 2026-06-29T02:57:47.313Z
+date: 2026-07-04T02:17:28.547Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-02T01:20:15.085Z
@@ -10,54 +10,65 @@ dateCreated: 2026-06-02T01:20:15.085Z
 
 # 🦨 STANKOPEDIA
 
-> **The canonical engineering knowledge base for the STANK methodology.**
-
-STANKOPEDIA is the controlled reference system for standards, workflows, registries, Wombats, projects, and operational knowledge.
-
----
-
-## Engineering Spine
-
-### [Engineering Standards](/stankopedia/engineering/standards)
-Mandatory principles, specifications, and accepted engineering rules.
-
-### [Workflows](/stankopedia/engineering/workflows)
-Approved procedures for building, reviewing, changing, and accepting work.
-
-### [Templates](/stankopedia/engineering/templates)
-Reusable document forms for STANK artifacts.
-
-### [Checklists](/stankopedia/engineering/checklists)
-Verification lists for review, acceptance, and production readiness.
+> **Canonical engineering knowledge base for the STANK methodology.**  
+> Controlled standards. Documented decisions. Preserved stank.
 
 ---
 
-## Knowledge Systems
+## ⚙️ Engineering Spine
 
-### [Registries](/stankopedia/registries)
-Canonical indexes for documents, assets, standards, decisions, and project records.
-
-### [Wombats](/stankopedia/wombats)
-Living knowledge pages, incidents, oddities, research notes, and field records.
-
-### [Reference](/stankopedia/reference)
-Informational material that supports the engineering standard.
-
-### [Projects](/stankopedia/projects/stank-radio)
-Active and historical STANK projects.
+| Division | Purpose |
+|---|---|
+| [Engineering Standards](/stankopedia/engineering/standards) | Mandatory STANK rules, principles, and specifications. |
+| [Workflows](/stankopedia/engineering/workflows) | Approved operating procedures for controlled work. |
+| [Templates](/stankopedia/engineering/templates) | Reusable forms for STANK artifacts. |
+| [Checklists](/stankopedia/engineering/checklists) | Review and acceptance criteria. |
 
 ---
 
-## Current Priority
+## 🗂️ Knowledge Systems
+
+| Division | Purpose |
+|---|---|
+| [Registries](/stankopedia/registries) | Canonical indexes for documents, assets, standards, and projects. |
+| [Wombats](/stankopedia/wombats) | Field records, incidents, oddities, and living knowledge pages. |
+| [Reference](/stankopedia/reference) | Supporting material, context, and informational pages. |
+| [Projects](/stankopedia/projects/stank-radio) | Active and historical STANK project records. |
+
+---
+
+## 🚧 Current Operation
 
 **STANKOPEDIA Overhaul — Phase 1**
 
-Status: Active  
-Objective: Establish the engineering spine, stabilize publishing, and prepare for controlled content migration.
+| Field | Status |
+|---|---|
+| Objective | Establish the engineering spine |
+| Publishing | Under repair |
+| Navigation | Being restructured |
+| Content Migration | Pending |
+| Visual Review | Active |
 
 ---
 
-## Remember
+## 📌 Operating Principle
+
+STANKOPEDIA is not just a wiki.
+
+It is the controlled reference system for:
+
+- standards
+- workflows
+- registries
+- production assets
+- Wombats
+- projects
+- engineering decisions
+- future STANK systems
+
+---
+
+## 🦨 Closing Directive
 
 Freshness is temporary.
 
