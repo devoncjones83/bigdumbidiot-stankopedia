@@ -2,7 +2,7 @@
 title: Stankopedia Home
 description: Canonical engineering knowledge base for the STANK methodology.
 published: true
-date: 2026-07-04T03:50:57.016Z
+date: 2026-07-04T04:02:15.335Z
 tags: stankopedia, big-dumb-idiot-labs
 editor: markdown
 dateCreated: 2026-06-02T01:20:15.085Z
@@ -15,7 +15,7 @@ dateCreated: 2026-06-02T01:20:15.085Z
 
 ---
 
-## ⚙️ Engineering Spine
+## Engineering Spine
 
 | Division | Purpose |
 |---|---|
@@ -26,7 +26,7 @@ dateCreated: 2026-06-02T01:20:15.085Z
 
 ---
 
-## 🗂️ Knowledge Systems
+## Knowledge Systems
 
 | Division | Purpose |
 |---|---|
@@ -37,38 +37,27 @@ dateCreated: 2026-06-02T01:20:15.085Z
 
 ---
 
-## 🚧 Current Operation
-
-**STANKOPEDIA Overhaul — Phase 1**
+## Current Operation
 
 | Field | Status |
 |---|---|
-| Objective | Establish the engineering spine |
+| Operation | STANKOPEDIA Overhaul |
+| Phase | Theme v1 / Engineering Spine |
 | Publishing | Under repair |
 | Navigation | Being restructured |
-| Content Migration | Pending |
 | Visual Review | Active |
 
 ---
 
-## 📌 Operating Principle
+## Operating Principle
 
 STANKOPEDIA is not just a wiki.
 
-It is the controlled reference system for:
-
-- standards
-- workflows
-- registries
-- production assets
-- Wombats
-- projects
-- engineering decisions
-- future STANK systems
+It is the controlled reference system for STANK standards, workflows, registries, production assets, Wombats, projects, and engineering decisions.
 
 ---
 
-## 🦨 Closing Directive
+## Closing Directive
 
 Freshness is temporary.
 
